@@ -14,7 +14,8 @@ Monitors today are primarily LED flat panel displays.  These types of monitors w
 Resolution  
 Resolution is the number of Pixels the screen is made up of.  The higher the number the more detail the monitor can achieve.  At very least you should have a monitor that is High Definition or 1080p (1920 x 1080). This is because animation production requires that resolution, some productions even work beyond those resolutions such as 2k (2048×1080) or 4k (3840 x 2160) resolutions.  
 <br>
-Size 
+Size
+<br>
 The size of your monitor is also important; make sure to get a large enough monitor to prevent eye strain.  24” monitors are pretty common and can be found for around $150.  Although, 27” and 32” monitors are becoming more common at an affordable price.  
 <br>
 Colour space  
