@@ -3,22 +3,46 @@ layout: post
 title: What you need for Sheridan Animation Online Learning 
 date: June 01, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
-
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
+When preparing for online classes you should consider three main aspects of your home workstation.<br>  
+<br>
+    Is your computer fast enough for the required software?<br>   
+<br>
+    Do you have a tablet that will work properly for animation?<br>  
+<br>
+    Lastly, is your internet connection fast enough to properly work remotely?<br>   
+<br>
  
 
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
-
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
-
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
-
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
-
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+1. Is your computer fast enough for the required software?<br>   
+<br>
+Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are<br> 
+<br>
+    Intel I5 processor,<br>  
+<br>
+    Intel HD Graphics 4000<br> 
+<br>
+    8Gb of Ram<br>  
+<br>
+    Screen with at least a 1280 x 800 resolution monitor.<br>  
+<br>
+With these specs you will be able to run the software and complete your assignments in Harmony and Photoshop, although; these specs may fall short with more advanced 3D software like Maya or Z-brush.  The tech department at Sheridan has put together a system where you can utilize a Sheridan Workstations called the RGS system, I will go over that in a future walkthrough.<br>    
+<br>
+To run more advanced 3D software and complex scenes efficiently locally, it is recommended that you use a computer system with these specifications<br> 
+<br>
+    Intel I7 3.6Ghz,<br>  
+<br>
+    32 Gb ram,<br>  
+<br>
+    Nvidia GeForce GTX 1070 or faster<br>  
+<br>
+    1920 x 1080 or higher resolution monitor 24" and duel screen.<br> 
+<br>
+2. Do you have a tablet that will work properly for animation?<br> 
+<br>
+The second thing you should prepare for your online classes is your Wacom Tablet.  Sheridan has included this in tuition, and you will be receiving this shortly. Detailed instructions on the setup and installing the drivers will be covered in detail later.<br>  
+<br>
+3. Lastly, is your internet connection fast enough to properly work remotely?<br> 
+<br>
+You will also need a fast internet connection for online meetings and possibly the remote operation of a Sheridan Workstation.  High-speed internet is generally about 50mbs download and 10mbs upload speed.  This is the ideal speed for online working, although; you may be able to work with speeds of 12mbs Download and 4mbs upload. To check your internet connection speed, go to fast.com and from there make upgrades to your internet service as needed. Below is a link to a detailed document on internet speeds and services.<br>
+[Internet Connection Quide](http://mactech.sheridanc.on.ca/internet) 
 
