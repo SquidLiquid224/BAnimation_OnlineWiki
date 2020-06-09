@@ -3,22 +3,31 @@ layout: post
 title: Monitors
 date: June 27, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
-
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
-
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
-
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
-
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
-
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
-
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+Monitors are an important component of any workstation and have different qualities to consider. Check out this buyer's guide for more detailed information. 
+<br>
+https://www.newegg.com/insider/how-to-choose-the-best-computer-monitor-buying-guide/ 
+<br>
+The type of monitor 
+<br>
+Monitors today are primarily LED flat panel displays.  These types of monitors will last the longest and be most power efficient. Newer technologies like curved monitors are also available that can enhance emersion.  
+<br>
+Resolution  
+<br>
+Resolution is the number of Pixels the screen is made up of.  The higher the number the more detail the monitor can achieve.  At very least you should have a monitor that is High Definition or 1080p (1920 x 1080). This is because animation production requires that resolution, some productions even work beyond those resolutions such as 2k (2048×1080) or 4k (3840 x 2160) resolutions.  
+<br>
+Size 
+<br>
+The size of your monitor is also important; make sure to get a large enough monitor to prevent eye strain.  24” monitors are pretty common and can be found for around $150.  Although, 27” and 32” monitors are becoming more common at an affordable price.  
+<br>
+Colour space  
+<br>
+Colour space is another aspect to consider. Two classifications are common, sRGB and Adobe RGB. A wide gamut sRGB is comparable to a full Adobe RGB colour space.  Although, Adobe RGB does claim to have a wider colour gamut.  Keep in mind the wider the colour gamut the more expensive the monitor will be.  These expensive professional monitors are more geared for photo realism and may not be necessary for simply coloured animation.  
+<br>
+Refresh rate 
+<br>
+The term refresh rate refers to haw fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.  
+<br>
+Special features 
+<br>
+Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your hoe workstation.  
 
