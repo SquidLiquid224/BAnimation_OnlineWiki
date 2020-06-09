@@ -11,7 +11,7 @@ When preparing for online classes you should consider three main aspects of your
 <br>
  
 
-1. Is your computer fast enough for the required software?<br>   
+### 1. Is your computer fast enough for the required software?  
 Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are.<br> 
 <br>
 #### Intel I5 processor,  
@@ -27,11 +27,11 @@ To run more advanced 3D software and complex scenes efficiently locally, it is r
 #### Nvidia GeForce GTX 1070 or faster,  
 #### 1920 x 1080 or higher resolution monitor 24" and duel screen.<br> 
 <br>
-2. Do you have a tablet that will work properly for animation?<br> 
+### 2. Do you have a tablet that will work properly for animation?  
 <br>
 The second thing you should prepare for your online classes is your Wacom Tablet.  Sheridan has included this in tuition, and you will be receiving this shortly. Detailed instructions on the setup and installing the drivers will be covered in detail later.<br>  
 <br>
-3. Lastly, is your internet connection fast enough to properly work remotely?<br> 
+### 3. Lastly, is your internet connection fast enough to properly work remotely?  
 <br>
 You will also need a fast internet connection for online meetings and possibly the remote operation of a Sheridan Workstation.  High-speed internet is generally about 50mbs download and 10mbs upload speed.  This is the ideal speed for online working, although; you may be able to work with speeds of 12mbs Download and 4mbs upload. To check your internet connection speed, go to fast.com and from there make upgrades to your internet service as needed. Below is a link to a detailed document on internet speeds and services.<br>
 [Internet Connection Quide](http://mactech.sheridanc.on.ca/internet) 
