@@ -3,22 +3,43 @@ layout: post
 title: Setting up your Wacom One Cintiq 
 date: June 23, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
+You will receive a Wacom One 13” Cintiq for your class assignments.  Open the box and follow the instruction on the inside.   
 
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
+You will first need an HDMI port on your computer to complete step one.  If your computer does not have an HDMI port, you will have to purchase an adapter that has a male connection to your computer and a Female HDMI connection.  below is a list of adapters that may work for you home set up.  
 
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
+    Male DVI to Female HDMI  
 
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
+    Male Display Port to Female HDMI 
 
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
+    Male Thunderbolt (mac) to Female HDMI 
 
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
+    Male USB-C to Female HDMI 
 
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+You will also need an available standard USB port on your computer.  You may have to purchase a USB hub if your laptop only supports USB-C.   
+
+The Cintiq also requires a USB port with the output power of (5 volts === 2.0A 10.0W). Make sure that you have a spare outlet for you included power adapter or USB port of the same power output available.    
+
+Installing the Wacom driver 
+
+Once the Cintiq is connected properly you will have to install the driver.  Go to: 
+
+https://www.wacom.com/en-us/support/product-support/drivers 
+
+Search for “Wacom One” then download and install the driver that will work with your operating system.  
+
+Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps 
+
+    Click the System Preferences icon in the Dock. 
+
+    Choose the Security icon 
+
+    Click the Lock icon in the bottom left corner.  
+
+    To unlock, type an administrator name and password. 
+
+    Click Unlock. 
+
+    Click the Close button. 
+
+ Once you have the drivers installed your tablet will be ready to use.  Take time to Wacom One properties to calibrate and customizes the controls to your needs. More information on these settings can be found here. https://101.wacom.com/UserHelp/en/ControlPanel.htm 
 

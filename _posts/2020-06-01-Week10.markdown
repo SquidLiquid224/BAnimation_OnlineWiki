@@ -3,22 +3,35 @@ layout: post
 title: Installing the Adobe Creative Cloud
 date: June 21, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
+For many of your classes you will have to use the Adobe Creative Cloud, more specifically Photoshop, Premiere Pro, After Effect, Audition, Media Encoder and Acrobat.  Here a step-by-step guild on how to install these applications  
 
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
+    To begin your installation of Adobe Creative Cloud, go the website: https://GetAdobe.sheridancollege.ca Here you will be able to sign in with your Sheridan Username and Password and claim your Adobe license.  
 
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
+    Now that you have your license go to http://www.Adobe.com and press the “Sign In” button in the top left corner.  
 
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
+    You will be brought to a Sign In page.  Where it says “Email Address” make sure to input your Sheridan E-mail press the “Continue” button. 
 
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
+     Now in the “Select an account” page choose the Company or School Account option.  This will send you to Sheridan login page.  
 
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
+    On Sheridan’s login page logon with your Sheridan Username and Password.  Once you do this you will be sent back to Adobe.com where you can open the creative cloud.  Select the “Open” button under the Creative Cloud heading to do this.  
 
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+    Now that you are logged into creativecloud.adobe.com select the Creative Cloud tab and select the Download button.   
+
+    When the download completes initialize the installer and select “Continue” when the Creative Cloud Installer opens. When in begins select “Start Installing” keep in mind this installation may take some time. 
+
+    Once installed you will be invited to take a tour of the “Creative Cloud Desktop App” It may be a good idea to familiar yourself with the interface. 
+
+    From the “Creative Cloud Desktop App” choose the All apps tab from the top left and Press the Install button in the appropriate App headings.  Make sure to install the following Adobe applications.  
+
+    Photoshop 
+
+    Premiere Pro  
+
+    After Effects  
+
+    Audition   
+
+    Media Encoder  
+
+    Acrobat 
 

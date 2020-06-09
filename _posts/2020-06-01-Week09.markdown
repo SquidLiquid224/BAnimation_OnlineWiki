@@ -3,22 +3,67 @@ layout: post
 title: Downloading, Installing and Activating Autodesk Maya and Mudbox
 date: June 22, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
+Installing Autodesk products at home is easy due to Autodesk's free education licenses.  This software is taught in second year, so you may want to skip this topic is you are a First-Year student. To start, go to Autodesk’s Free software website: 
 
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
+https://www.autodesk.com/education/free-software 
 
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
+Downloading 
 
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
+    Once there, click on the scroll down to the Free education license products list and find the software that you wish to download and install on your home computer.   Follow the link to that software. 
 
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
+    Next you will have to create an Autodesk Account. Underneath the product description select the second option “Create Account” 
 
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
+    On the Get education benefits webpage use the drop-down option to complete your details and select the “NEXT” button.  
 
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+    On the Create account page fill in your personal details.  Make sure to use your Sheridan E-mail address on this page.  Once you have entered your details you will need to verify your Autodesk account through Sheridan's logon on page.  When you have completed your verification, you will be redirected back to the Autodesk Free Software website. Now you will be able to claim your license key and download your software.  
+
+    Back on the Autodesk free software page fill in the following details of the software: 
+
+    Version 
+
+    Maya 2020 
+
+    Mudbox 2019 
+
+    Operating system 
+
+    Window or Mac 
+
+    Choose the language of the software. 
+
+    For tech support reasons please choose English 
+
+    Once you have filled out your software details you will be sent an E-mail by Autodesk with your Software license key. Make sure to keep this E-mail safe because it will allow you to activate your software. 
+
+    Now you can download and install your Software.  By default, the “INSTALL NOW” button will be active, if you press it a web installer will automate your installation.   
+
+    NOTE: This method can be unstable at times.  I recommend selecting the arrow to the right of the “INSTALL NOW” button and select “DOWNLOAD NOW”.   
+
+    The “Download Now” will allow you to download the software and install the software separately using the Autodesk Download Manager.   
+
+    When the Autodesk Download manager has finished downloading, initialize the installer.  Agree to the installation and in the “Save Download” press “OK” 
+
+    Note: depending on your Internet connection this may take a long time due to the large size of the installation file.  
+
+Installing  
+
+    When the download is complete select the “Install” button. 
+
+    When the installation window appears select the “Agree” button and the “Next” button and finally the “Install” button.  
+
+    When the “Data collection and use” window pops up I recommend unchecking the Agreement and pressing “OK”  
+
+    When the installation is complete select the “Start” button 
+
+Activating  
+
+    Now you will need to activate your software.  On the Let’s Get Started window select the blue text that reads “enter a serial number” 
+
+    Select the “I Agree” button on the Autodesk Privacy Statement  
+
+    Then on the Product License Activation page select the “Activate” button 
+
+    Finally, on the Enter Serial Number and Product Key page input the Serial Number and Product Key that was sent to you in an E-mail from Autodesk. The serial number should look something like this 900-78234593 
+
+    Make sure you are connected to the Internet and select the “Activate” button. You should now have full access to your Autodesk software.  
 

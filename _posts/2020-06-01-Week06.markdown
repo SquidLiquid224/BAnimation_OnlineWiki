@@ -3,22 +3,21 @@ layout: post
 title: Good ergonomics for your home workstation
 date: June 25, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
-
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
-
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
-
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
-
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
-
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
-
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+Ergonomics is a very important aspect of your home workstation.  Consider the following things about your workstation.  
+<br>
+Monitor height and your distance from the monitor  
+<br>
+Your monitor should be at eye level to reduce neck strain.  consider elevating your monitor with books or platform if it isn’t tall enough.  when working on a laptop for long periods try using a mouse and keyboard along with a laptop stand to increase its height.   Working too close or too far away from your monitor can increase eye strain, make sure you are at a distance that is comfortable.  Having table space between you and your monitor also allows for resting your arms and your Cintiq.   
+<br>
+Height and angle of your Wacom Cintiq 
+<br>
+When using a Wacom Cintiq make sure that it is in a comfortable position and that it is adjustable.  In most cases it is easiest to draw leaning over, which is not very ergonomic, to alleviate the strain on your neck and back change your drawing position regularly and most importantly take breaks.  
+<br>
+Hight and distance of your keyboard and mouse and does it have wrist support 
+<br>
+The height and distance you are away from your mouse and keyboard is also important.  Keep your arms at your sides and your forearms at 90 degrees.  It is also smart to use a keyboard and mouse with gel padded wrist rests that can also be used for your elbow when drawing on a Cintiq.  You can also purchase more ergonomic mice and keyboards for increased comfort.  
+<br>
+How ergonomic your chair is, does it have arm rests and is it height adjustable.   
+<br>
+One of the most important pieces of your home workstation is your chair.  The more adjustable the chair is the better it will be able to fit your body.  Make sure that the height of the chair allows your feet to be flat on the ground.  A chair with good lumbar support will help prevent back pain.  Having arm rest on your chair will also cut back on shoulder strain.   Most importantly you must feel comfortable in your computer chair and take lots of breaks to walk around and stretch.  Footrests can also greatly increase the comfort of your workstation. 
 
