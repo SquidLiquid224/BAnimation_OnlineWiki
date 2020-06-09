@@ -3,22 +3,28 @@ layout: post
 title: Computer Peripherals (Headphones, Speakers, Microphones and Webcams)
 date: June 26, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
-
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
-
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
-
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
-
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
-
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
-
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
-
+Once you have a computer workstation, tablet and workable internet connection you should think about computer peripherals to further help your home workstation.  
+<br>
+Headphones 
+<br>
+A good set of headphones can help you fine tune your sound design as well as help you concentrate in loud environments.  Make sure to read reviews and choose a model that is right for you.  Some headphones have a built-in microphone that can be useful during online meetings.   
+<br>
+Speakers 
+<br>
+Computer speakers can also help fine tune your sound design.  It is important to pick a set of speakers that have a good range of sound.   
+<br>
+Microphones  
+<br>
+Microphones are useful for recording voice tracks as well as folly.  There are a variety of different microphones can have different use cases.  Blue Snowball microphones are versatile and somewhat inexpensive.  They are also plug-n-play which makes them easy to setup. 
+<br>
+Webcams  
+<br>
+Webcams are very useful for online meetings as well as required for the Stop-motion course.  I wide range of webcams are available; it is important that you pick the model best suited for your needs.  When shooting stop-motion it is important to take High definition picture whereas a group meeting may not need the same caliber of webcam.  
+<br>
+Mouse and Keyboard  
+<br>
+A mouse and keyboard can be useful even if you have a laptop with these components-built in.  choosing peripherals that are functional and ergonomic are very important when setting up your home workstation. 
+<br>
+Adapters 
+<br>
+Depending on your computer you may need adapters to properly plug in your Cintiq display, Webcam or an ethernet cord for faster network speeds.  
