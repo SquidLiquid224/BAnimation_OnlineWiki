@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 01 - ML-Agents Intro
+title: Installing the Adobe Creative Cloud: Photoshop, Premiere Pro, After Effects, Audition, Media Encoder and Acrobat 
 date: June 01, 2020
 --- 
 It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
