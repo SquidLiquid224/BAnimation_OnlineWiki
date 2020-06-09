@@ -3,15 +3,15 @@ layout: post
 title: Choosing a computer (laptop vs. Desktop) 
 date: June 28, 2020
 --- 
-Laptops<br>  
-<br>
-The greatest feature of a laptops is that it is a very mobile platform, if you travel often or commute long distances this option might be right for you.  They also generally come ready to go out of the box, which is a huge plus if you are not familiar with installing an operating system.<br>  
+Laptops
+<br>  
+The greatest feature of a laptops is that it is a very mobile platform, if you travel often or commute long distances this option might be right for you.  They also generally come ready to go out of the box, which is a huge plus if you are not familiar with installing an operating system.  
 <br>
 The downside is that you generally get less power for your money compared to a desktop computer.  Secondly, repair costs can be much greater; I recommend purchasing a maintenance plan if you choose to purchase a laptop for animation and design.  Another potential constraint of a laptop is its upgradability, laptops are generally limited in this area and may shorten the length of its usefulness.<br>  
 <br>
 Desktops<br> 
 <br>
-Desktop workstations are generally more versatile but lack in mobility.  There are two approaches to desktop workstation, first, you can purchase a premade workstation, or secondly, you can put one together by purchasing the components separately.  Unless you somewhat technically savvy or have someone who has experience building a computer at your disposal, I recommend purchasing a prebuild desktop workstation. Prebuilt workstations also generally come preloaded with an operating system, which can save time.  keep in mind, the real power of a desktop workstation is the ease of replacing and upgrading parts.<br>   
+Desktop workstations are generally more versatile but lack in mobility.  There are two approaches to desktop workstation, first, you can purchase a premade workstation, or secondly, you can put one together by purchasing the components separately.  Unless you somewhat technically savvy or have someone who has experience building a computer at your disposal, I recommend purchasing a prebuild desktop workstation. Prebuilt workstations also generally come preloaded with an operating system, which can save time.  keep in mind, the real power of a desktop workstation is the ease of replacing and upgrading parts.   
 <br>
 If you are confident in building a computer from components a very helpful website for choosing parts is [PC Parts Picker](https://pcpartpicker.com/)<br> 
 <br>
