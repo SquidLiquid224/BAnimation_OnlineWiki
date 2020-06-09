@@ -23,7 +23,7 @@ Installing the Wacom driver
 
 Once the Cintiq is connected properly you will have to install the driver.  Go to: 
 
-https://www.wacom.com/en-us/support/product-support/drivers 
+[Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers) 
 
 Search for “Wacom One” then download and install the driver that will work with your operating system.  
 
@@ -41,5 +41,6 @@ Note: When installing Wacom drivers on a Mac computer you may need to unlock you
 
     Click the Close button. 
 
- Once you have the drivers installed your tablet will be ready to use.  Take time to Wacom One properties to calibrate and customizes the controls to your needs. More information on these settings can be found here. https://101.wacom.com/UserHelp/en/ControlPanel.htm 
+ Once you have the drivers installed your tablet will be ready to use.  Take time to Wacom One properties to calibrate and customizes the controls to your needs. More information on these settings can be found here.<br>
+[Wacom Properties](https://101.wacom.com/UserHelp/en/ControlPanel.htm) 
 
