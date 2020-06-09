@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "BAnimation_OnlineWiki"
+title: "Bachelor of Animation Online Wiki"
 email: Jason.Teeuwissen@gmail.com
 description: 
-  "This is the GAM750-Reflective-Journal of my final thesis project for the Masters Degree of Creative App Development at Falmouth University."
-baseurl: "BAnimation_OnlineWiki" # the subpath of your site, e.g. /blog
+  "This is the Bachelor of Animation Online Wiki Guide, a resourse to help Animation students at Sheridan prepare for On-line learning" # the subpath of your site, e.g. /blog
 url: "" 
 twitter_username: SquidLiquid2
 github_username:  SquidLiquid224
