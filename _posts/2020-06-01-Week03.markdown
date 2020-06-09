@@ -3,22 +3,19 @@ layout: post
 title: Choosing a computer (laptop vs. Desktop) 
 date: June 28, 2020
 --- 
-It is finally time to start my final thesis project for my Masters Degree of Creative App development at Falmouth university.  I’ve decided to begin my research and experimentation on Machine Learning and Artificial intelligence for use in games.  This topic has been an interest of mine since I discovered the ML-Agents package for the Unity game engine.  Over the past modules I have had lots of practice working with the engine and I believe I am at a point where I can comfortably experiment with the more advanced topic of Machine Learning.  You can read more about the ML-Agents toolkit here.  
-[Unity 3D: ML-Agents](https://unity3d.com/machine-learning)
-
-I also found a short white paper called <a href="../docs/Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network.pdf" target="_blank">Implementation of a 2D A. I. Agent for nondeterministic games using Convolution Neural Network</a> You can give it a read if you follow the link. 
- 
-
-It explained the topic of neuro layers in great detail and to be honest, most of the information went over my head.  I plan to read the paper again but for now felt the best course of action was to build a machine learning demo for myself, I believe that  learning is doing. 
-
-I’ve purchased and found a few ML-Agents tutorials on Unity Learn and on Udemy and thought it would be a great starting point.  Luckily Unity learn has been free for the covid-19 Pandemic and I have until the 20th of this month to finish the tutorial series 
-
-[Artificial Intelligence & Machine Learning with Unity3D](https://www.udemy.com/course/artificial-intelligence-machine-learning-unity3d)<br>
-[ML-Agents: Hummingbirds](https://learn.unity.com/project/course-overview?courseId=5e470160edbc2a15578b13d7)<br>
-[ML-Agents: Penguins](https://learn.unity.com/project/ml-agents-penguins)<br>
-
-Another resource I found that was pretty informative and funny was this Youtube series.<br> 
-[WRITING MY FIRST MACHINE LEARNING GAME!](https://www.youtube.com/watch?v=ZX2Hyu5WoFg&list=PLVOwmfGKAoEIjwcOyw52XbNCtHpBC4DkA&index=3&t=0s)
-
-With this wealth of knowledge at my fingertips I’m positive I can have a Neural Network up and running with Unity ML-Agents in no time.  Now all I need to do is find a direction for my project.. 
+Laptops<br>  
+<br>
+The greatest feature of a laptops is that it is a very mobile platform, if you travel often or commute long distances this option might be right for you.  They also generally come ready to go out of the box, which is a huge plus if you are not familiar with installing an operating system.<br>  
+<br>
+The downside is that you generally get less power for your money compared to a desktop computer.  Secondly, repair costs can be much greater; I recommend purchasing a maintenance plan if you choose to purchase a laptop for animation and design.  Another potential constraint of a laptop is its upgradability, laptops are generally limited in this area and may shorten the length of its usefulness.<br>  
+<br>
+Desktops<br> 
+<br>
+Desktop workstations are generally more versatile but lack in mobility.  There are two approaches to desktop workstation, first, you can purchase a premade workstation, or secondly, you can put one together by purchasing the components separately.  Unless you somewhat technically savvy or have someone who has experience building a computer at your disposal, I recommend purchasing a prebuild desktop workstation. Prebuilt workstations also generally come preloaded with an operating system, which can save time.  keep in mind, the real power of a desktop workstation is the ease of replacing and upgrading parts.<br>   
+<br>
+If you are confident in building a computer from components a very helpful website for choosing parts is [PC Parts Picker](https://pcpartpicker.com/)<br> 
+<br>
+PC Part Picker is great for analyzing the compatibility of your computer components.  Although, it is still recommended that you do further research to validate the compatibility of the parts.  The site queries many online marketplaces for pricing and availability, which can potentially save you money. The site also provides detailed component guides as well as examples of completed builds.<br>  
+<br>
+Note: Only attempt to build a computer if you are technically competent or have someone at your deposal who is. Some computer shops provide this service.  
 
