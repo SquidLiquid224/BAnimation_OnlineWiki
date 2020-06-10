@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What technology you need for Sheridan Animation Online Learning 
+title: What technology you need for Sheridan Animation online learning 
 date: June 29, 2020
 --- 
 ### When preparing for online classes you should consider three main aspects of your home workstation.  
