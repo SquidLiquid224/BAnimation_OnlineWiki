@@ -3,29 +3,25 @@ layout: post
 title: Choosing a monitor
 date: June 27, 2020
 --- 
-Monitors are an important component of any workstation and have different qualities to consider. Check out this buyer's guide for more detailed information. 
+#### Monitors are an important component of any workstation and have different qualities to consider. Check out this buyer's guide for more detailed information. 
 <br>
 [Monitor buying guide](https://www.newegg.com/insider/how-to-choose-the-best-computer-monitor-buying-guide/) <br>
 <br>
-The type of monitor 
-<br>
+#### ** The type of monitor  
 Monitors today are primarily LED flat panel displays.  These types of monitors will last the longest and be most power efficient. Newer technologies like curved monitors are also available that can enhance emersion.  
 <br>
-Resolution  
+#### Resolution  
 Resolution is the number of Pixels the screen is made up of.  The higher the number the more detail the monitor can achieve.  At very least you should have a monitor that is High Definition or 1080p (1920 x 1080). This is because animation production requires that resolution, some productions even work beyond those resolutions such as 2k (2048×1080) or 4k (3840 x 2160) resolutions.  
 <br>
-Size
-<br>
+#### Size  
 The size of your monitor is also important; make sure to get a large enough monitor to prevent eye strain.  24” monitors are pretty common and can be found for around $150.  Although, 27” and 32” monitors are becoming more common at an affordable price.  
 <br>
-Colour space  
-Colour space is another aspect to consider. Two classifications are common, sRGB and Adobe RGB. A wide gamut sRGB is comparable to a full Adobe RGB colour space.  Although, Adobe RGB does claim to have a wider colour gamut.  Keep in mind the wider the colour gamut the more expensive the monitor will be.  These expensive professional monitors are more geared for photo realism and may not be necessary for simply coloured animation.  
+#### Colour space  
+Colour space is another aspect to consider. Two classifications are common, sRGB and Adobe RGB. A wide gamut sRGB is comparable to a full Adobe RGB colour space.  Although, Adobe RGB does claim to have a wider colour gamut.  Keep in mind the wider the colour gamut the more expensive the monitor will be.  These expensive professional monitors are more geared for photo realism and may not be necessary for simply coloured animation.
 <br>
-Refresh rate 
+#### Refresh rate  
+The term refresh rate refers to haw fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.
 <br>
-The term refresh rate refers to haw fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.  
-<br>
-Special features 
-<br>
+#### Special features  
 Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your hoe workstation.  
 
