@@ -3,19 +3,17 @@ layout: post
 title: Good ergonomics for your home workstation
 date: June 25, 2020
 --- 
-Ergonomics is a very important aspect of your home workstation.  Consider the following things about your workstation.  
+#### Ergonomics is a very important aspect of your home workstation.  Consider the following things about your workstation.  
 <br>
-Monitor height and your distance from the monitor  
+#### **Monitor height and your distance from the monitor.** 
 Your monitor should be at eye level to reduce neck strain.  consider elevating your monitor with books or platform if it isn’t tall enough.  when working on a laptop for long periods try using a mouse and keyboard along with a laptop stand to increase its height.   Working too close or too far away from your monitor can increase eye strain, make sure you are at a distance that is comfortable.  Having table space between you and your monitor also allows for resting your arms and your Cintiq.   
 <br>
-Height and angle of your Wacom Cintiq 
-<br>
+#### **Height and angle of your Wacom Cintiq.**  
 When using a Wacom Cintiq make sure that it is in a comfortable position and that it is adjustable.  In most cases it is easiest to draw leaning over, which is not very ergonomic, to alleviate the strain on your neck and back change your drawing position regularly and most importantly take breaks.  
 <br>
-Hight and distance of your keyboard and mouse and does it have wrist support 
-<br>
+#### **Hight and distance of your keyboard and mouse and does it have wrist support.**  
 The height and distance you are away from your mouse and keyboard is also important.  Keep your arms at your sides and your forearms at 90 degrees.  It is also smart to use a keyboard and mouse with gel padded wrist rests that can also be used for your elbow when drawing on a Cintiq.  You can also purchase more ergonomic mice and keyboards for increased comfort.  
 <br>
-How ergonomic your chair is, does it have arm rests and is it height adjustable.   
-One of the most important pieces of your home workstation is your chair.  The more adjustable the chair is the better it will be able to fit your body.  Make sure that the height of the chair allows your feet to be flat on the ground.  A chair with good lumbar support will help prevent back pain.  Having arm rest on your chair will also cut back on shoulder strain.   Most importantly you must feel comfortable in your computer chair and take lots of breaks to walk around and stretch.  Footrests can also greatly increase the comfort of your workstation. 
+#### **How ergonomic your chair is, does it have arm rests and is it height adjustable.**   
+One of the most important pieces of your home workstation is your chair.  The more adjustable the chair is the better it will be able to fit your body.  Make sure that the height of the chair allows your feet to be flat on the ground.  A chair with good lumbar support will help prevent back pain.  Having arm rest on your chair will also cut back on shoulder strain.   Most importantly you must feel comfortable in your computer chair and take lots of breaks to walk around and stretch.  Footrests can also greatly increase the comfort of your workstation.  
 
