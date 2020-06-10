@@ -23,5 +23,5 @@ Colour space is another aspect to consider. Two classifications are common, sRGB
 The term refresh rate refers to how fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.  
 <br>
 #### **Special features**  
-Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your hoe workstation.  
+Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your home workstation.  
 
