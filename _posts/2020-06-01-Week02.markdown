@@ -18,33 +18,33 @@ date: June 29, 2020
 ### **Windows based workstation**
 <br>
 #### **CPU processor**  
-* Intel i5 processor with 64-bit support,  
-* AMD A10 processor with 64-bit support  
+Intel i5 processor with 64-bit support,  
+AMD A10 processor with 64-bit support  
 #### **Operating system**  
  Microsoft Windows 10 - version 1809 or later  
 #### **RAM**  
-* 8Gb,    
+8Gb,    
 #### **Graphics card**
-* Intel HD Graphics 4000   
+Intel HD Graphics 4000   
 #### **Hard disk space**  
-* 120 GB hard driver   
+120 GB hard driver   
 #### **Monitor**
-* 1280 x 800 display  
+1280 x 800 display  
 <br>
 ### **Mac based workstation**
 <br>
 #### **CPU processor**  
-* Intel i5 processor with 64-bit support  
+Intel i5 processor with 64-bit support  
 #### **Operating system**  
-* macOS 10.13.6 or later    
+macOS 10.13.6 or later    
 #### **RAM**  
-* 8Gb,    
+8Gb,    
 #### **Graphics card**
-* Intel Iris Plus Graphics 640    
+Intel Iris Plus Graphics 640    
 #### **Hard disk space**  
-* 120 GB hard driver   
+120 GB hard driver   
 #### **Monitor**
-* 1280 x 800 display  
+1280 x 800 display  
 <br>
 ### **Recommended Technical Requirements**  
 #### To run more advanced 3D software and complex scenes efficiently locally, it is recommended that you use a computer system with these specifications.
@@ -52,34 +52,34 @@ date: June 29, 2020
 ### **Windows based workstation**
 <br>
 #### **CPU processor**  
-* Intel Core i7 or Xeon processor,  
-* AMD Ryzen 7 processor   
+Intel Core i7 or Xeon processor,  
+AMD Ryzen 7 processor   
 #### **Operating system**  
- Microsoft Windows 10 - version 1809 or later  
+Microsoft Windows 10 - version 1809 or later  
 #### **RAM**  
-* 16 GB,    
+16 GB,    
 #### **Graphics card**
-* Geforce GTX 1070 or Quadro GPU   
-* AMD Radeon R9 Fury/X or FirePro GPU  
+Geforce GTX 1070 or Quadro GPU   
+AMD Radeon R9 Fury/X or FirePro GPU  
 #### **Hard disk space**  
-* 500GB Solid State Drive    
+500GB Solid State Drive    
 #### **Monitor**
-* 1920 x 1080 display, or higher  
+1920 x 1080 display, or higher  
 <br>
 ### **Mac based workstation**
 <br>
 #### **CPU processor**  
-* Intel Core i7 or Xeon processor   
+Intel Core i7 or Xeon processor   
 #### **Operating system**  
-* macOS 10.13.6 or later    
+macOS 10.13.6 or later    
 #### **RAM**  
  16Gb,    
 #### **Graphics card**
-* Radeon Pro Vega 64     
+Radeon Pro Vega 64     
 #### **Hard disk space**  
-* 500GB Solid State Drive    
+500GB Solid State Drive    
 #### **Monitor**
-* 1920 x 1080 display, or higher   
+1920 x 1080 display, or higher   
 <br>
 ### **2. Do you have a tablet that will work properly for animation?**  
 <br>
