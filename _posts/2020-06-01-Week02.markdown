@@ -14,9 +14,23 @@ When preparing for online classes you should consider three main aspects of your
 ### 1. Is your computer fast enough for the required software?  
 Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are.<br> 
 <br>
-#### Intel I5 processor,  
-#### Intel HD Graphics 4000,  
-#### 8Gb of Ram,  
+### Windows basec workstation  
+<br>
+#### CPU processor  
+#### Intel i5 processor with 64-bit support,  
+#### AMD A10 processor with 64-bit support  
+### Operating system  
+#### Microsoft Windows 10 - version 1809 or later  
+### RAM  
+#### 8Gb,    
+### Graphics card
+#### Intel HD Graphics 4000   
+### Hard disk space  
+#### 120 GB hard driver   
+### Monitor
+#### 1280 x 800 display
+
+
 #### Screen with at least a 1280 x 800 resolution monitor.  
 <br>
 With these specs you will be able to run the software and complete your assignments in Harmony and Photoshop, although; these specs may fall short with more advanced 3D software like Maya or Z-brush.  The tech department at Sheridan has put together a system where you can utilize a Sheridan Workstations called the RGS system, I will go over that in a future walkthrough.    
