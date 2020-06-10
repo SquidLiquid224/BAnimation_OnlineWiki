@@ -22,20 +22,14 @@ Once the Cintiq is connected properly you will have to install the driver.  Go t
 
 Search for “Wacom One” then download and install the driver that will work with your operating system.  
 
-Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps 
-
-    Click the System Preferences icon in the Dock. 
-
-    Choose the Security icon 
-
-    Click the Lock icon in the bottom left corner.  
-
-    To unlock, type an administrator name and password. 
-
-    Click Unlock. 
-
-    Click the Close button. 
+Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps  
+* Click the System Preferences icon in the Dock.  
+* Choose the Security icon  
+* Click the Lock icon in the bottom left corner.   
+* To unlock, type an administrator name and password.  
+* Click Unlock.  
+* Click the Close button.  
 
  Once you have the drivers installed your tablet will be ready to use.  Take time to Wacom One properties to calibrate and customizes the controls to your needs. More information on these settings can be found here.<br>
-[Wacom Properties](https://101.wacom.com/UserHelp/en/ControlPanel.htm) 
+#### [Wacom Properties](https://101.wacom.com/UserHelp/en/ControlPanel.htm) 
 
