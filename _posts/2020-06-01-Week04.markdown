@@ -17,10 +17,10 @@ Resolution is the number of Pixels the screen is made up of.  The higher the num
 The size of your monitor is also important; make sure to get a large enough monitor to prevent eye strain.  24” monitors are pretty common and can be found for around $150.  Although, 27” and 32” monitors are becoming more common at an affordable price.  
 <br>
 #### **Colour space**  
-Colour space is another aspect to consider. Two classifications are common, sRGB and Adobe RGB. A wide gamut sRGB is comparable to a full Adobe RGB colour space.  Although, Adobe RGB does claim to have a wider colour gamut.  Keep in mind the wider the colour gamut the more expensive the monitor will be.  These expensive professional monitors are more geared for photo realism and may not be necessary for simply coloured animation.
+Colour space is another aspect to consider. Two classifications are common, sRGB and Adobe RGB. A wide gamut sRGB is comparable to a full Adobe RGB colour space.  Although, Adobe RGB does claim to have a wider colour gamut.  Keep in mind the wider the colour gamut the more expensive the monitor will be.  These expensive professional monitors are more geared for photo realism and may not be necessary for simply coloured animation.  
 <br>
 #### **Refresh rate**  
-The term refresh rate refers to haw fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.
+The term refresh rate refers to haw fast the monitor can change colours. This property of a monitor is important when playing fast pace video games.  
 <br>
 #### **Special features**  
 Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your hoe workstation.  
