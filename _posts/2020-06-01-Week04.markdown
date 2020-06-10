@@ -3,9 +3,9 @@ layout: post
 title: Choosing a monitor
 date: June 27, 2020
 --- 
-#### Monitors are an important component of any workstation and have different qualities to consider. Check out this buyer's guide for more detailed information. 
+#### Monitors are an important component of any workstation and have different qualities to consider. Check out this buyer's guide for more detailed information.
 <br>
-[Monitor buying guide](https://www.newegg.com/insider/how-to-choose-the-best-computer-monitor-buying-guide/) <br>
+### [Monitor buying guide](https://www.newegg.com/insider/how-to-choose-the-best-computer-monitor-buying-guide/) <br>
 <br>
 #### **The type of monitor**  
 Monitors today are primarily LED flat panel displays.  These types of monitors will last the longest and be most power efficient. Newer technologies like curved monitors are also available that can enhance emersion.  
