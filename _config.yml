@@ -23,8 +23,8 @@ email: BAnimationTechs@Sheridancollege.ca
 description: 
   "This is the Bachelor of Animation Online Wiki Guide, a resourse to help Animation students prepare for On-line learning" # the subpath of your site, e.g. /blog
 url: "" 
-twitter_username: SquidLiquid2
-github_username:  SquidLiquid224
+twitter_username: 
+github_username:  
 
 # Build settings
 theme: minima
