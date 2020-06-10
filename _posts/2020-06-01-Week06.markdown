@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good ergonomics for your home workstation
+title: Good ergonomics guide for your home workstation
 date: June 25, 2020
 --- 
 #### Ergonomics is a very important aspect of your home workstation.  Consider the following things about your workstation.  
