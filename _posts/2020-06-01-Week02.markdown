@@ -45,19 +45,45 @@ Your home workstation should meet the minimum requirements for Toon Boom Harmony
 #### **Monitor**
 #### 1280 x 800 display  
 <br>
-With these specs you will be able to run the software and complete your assignments in Harmony and Photoshop, although; these specs may fall short with more advanced 3D software like Maya or Z-brush.  The tech department at Sheridan has put together a system where you can utilize a Sheridan Workstations called the RGS system, I will go over that in a future walkthrough.    
-To run more advanced 3D software and complex scenes efficiently locally, it is recommended that you use a computer system with these specifications<br> 
+To run more advanced 3D software and complex scenes efficiently locally, it is recommended that you use a computer system with these specifications.
 <br>
-#### Intel I7 3.6Ghz,  
-#### 32 Gb ram,  
-#### Nvidia GeForce GTX 1070 or faster,  
-#### 1920 x 1080 or higher resolution monitor 24" and duel screen.<br> 
+### **Windows based workstation**  
 <br>
-### 2. Do you have a tablet that will work properly for animation?  
+#### **CPU processor**  
+#### Intel Core i7 or Xeon processor,  
+#### AMD Ryzen 7 processor   
+#### **Operating system**  
+#### Microsoft Windows 10 - version 1809 or later  
+#### **RAM**  
+#### 16 GB,    
+#### **Graphics card**
+#### Geforce GTX 1070 or Quadro GPU   
+#### AMD Radeon R9 Fury/X or FirePro GPU  
+#### **Hard disk space**  
+#### 500GB Solid State Drive    
+#### **Monitor**
+#### 1920 x 1080 display, or higher  
+<br>
+### **Mac based workstation**  
+<br>
+#### **CPU processor**  
+#### Intel Core i7 or Xeon processor   
+#### **Operating system**  
+#### macOS 10.13.6 or later    
+#### **RAM**  
+#### 16Gb,    
+#### **Graphics card**
+#### Radeon Pro Vega 64     
+#### **Hard disk space**  
+#### 500GB Solid State Drive    
+#### **Monitor**
+#### 1920 x 1080 display, or higher   
+<br>
+### **2. Do you have a tablet that will work properly for animation?**  
 <br>
 The second thing you should prepare for your online classes is your Wacom Tablet.  Sheridan has included this in tuition, and you will be receiving this shortly. Detailed instructions on the setup and installing the drivers will be covered in detail later.<br>  
 <br>
-### 3. Lastly, is your internet connection fast enough to properly work remotely?  
+### **3. Lastly, is your internet connection fast enough to properly work remotely?**  
 <br>
 You will also need a fast internet connection for online meetings and possibly the remote operation of a Sheridan Workstation.  High-speed internet is generally about 50mbs download and 10mbs upload speed.  This is the ideal speed for online working, although; you may be able to work with speeds of 12mbs Download and 4mbs upload. To check your internet connection speed, go to fast.com and from there make upgrades to your internet service as needed. Below is a link to a detailed document on internet speeds and services.<br>
 [Internet Connection Quide](http://mactech.sheridanc.on.ca/internet) 
