@@ -6,15 +6,15 @@ date: June 24, 2020
 #### Once your home workstation is setup and before you begin to install your software is it a good idea to do all updates for your operating system.  Installing the updates will ensure that your system drivers and security feature are up to date.  Always make a backup of your work files before doing any large updates.  
 <br>
 #### **Updating your Windows 10 operating system**  
-*. Select the Windows button from the bottom-left corner.   
-*. Select the gear icon to access the settings   
-*. Scroll to the bottom and select Update and Security.   
-*. Select the first option Windows Update tab in the sidebar (Circular arrows)   
-*. Select Check for updates. If there is an available update, it will begin downloading automatically.   
+* Select the Windows button from the bottom-left corner.   
+* Select the gear icon to access the settings   
+* Scroll to the bottom and select Update and Security.   
+* Select the first option Windows Update tab in the sidebar (Circular arrows)   
+* Select Check for updates. If there is an available update, it will begin downloading automatically.   
 <br>
 #### **Updating your iOS (Mac) operating system** 
-*. Choose System Preferences from the Apple menu, then click Software Update.  
-*. If any updates are available, click the Update button to install them. 
+* Choose System Preferences from the Apple menu, then click Software Update.  
+* If any updates are available, click the Update button to install them. 
 
  
 

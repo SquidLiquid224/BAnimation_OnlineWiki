@@ -6,10 +6,10 @@ date: June 23, 2020
 #### You will receive a Wacom One 13” Cintiq for your class assignments.  Open the box and follow the instruction on the inside.   
 
 You will first need an HDMI port on your computer to complete step one.  If your computer does not have an HDMI port, you will have to purchase an adapter that has a male connection to your computer and a Female HDMI connection.  below is a list of adapters that may work for you home set up.  
-*. Male DVI to Female HDMI  
-*. Male Display Port to Female HDMI 
-*. Male Thunderbolt (mac) to Female HDMI 
-*. Male USB-C to Female HDMI  
+* Male DVI to Female HDMI  
+* Male Display Port to Female HDMI 
+* Male Thunderbolt (mac) to Female HDMI 
+* Male USB-C to Female HDMI  
 
 You will also need an available standard USB port on your computer.  You may have to purchase a USB hub if your laptop only supports USB-C.   
 
