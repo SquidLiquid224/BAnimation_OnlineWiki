@@ -3,25 +3,22 @@ layout: post
 title: Computer Peripherals (Headphones, Speakers, Microphones and Webcams)
 date: June 26, 2020
 --- 
-Once you have a computer workstation, tablet and workable internet connection you should think about computer peripherals to further help your home workstation.  
+#### Once you have a computer workstation, tablet and workable internet connection you should think about computer peripherals to further help your home workstation.  
 <br>
-Headphones 
-<br>
+#### **Headphones**  
 A good set of headphones can help you fine tune your sound design as well as help you concentrate in loud environments.  Make sure to read reviews and choose a model that is right for you.  Some headphones have a built-in microphone that can be useful during online meetings.   
 <br>
-Speakers 
-<br>
+#### **Speakers** 
 Computer speakers can also help fine tune your sound design.  It is important to pick a set of speakers that have a good range of sound.   
 <br>
-Microphones  
-Microphones are useful for recording voice tracks as well as folly.  There are a variety of different microphones can have different use cases.  Blue Snowball microphones are versatile and somewhat inexpensive.  They are also plug-n-play which makes them easy to setup. 
-Webcams  
+#### **Microphones**  
+Microphones are useful for recording voice tracks as well as folly.  There are a variety of different microphones can have different use cases.  Blue Snowball microphones are versatile and somewhat inexpensive.  They are also plug-n-play which makes them easy to setup.  
 <br>
+#### **Webcams**  
 Webcams are very useful for online meetings as well as required for the Stop-motion course.  I wide range of webcams are available; it is important that you pick the model best suited for your needs.  When shooting stop-motion it is important to take High definition picture whereas a group meeting may not need the same caliber of webcam.  
 <br>
-Mouse and Keyboard  
-A mouse and keyboard can be useful even if you have a laptop with these components-built in.  choosing peripherals that are functional and ergonomic are very important when setting up your home workstation.<br> 
+#### **Mouse and Keyboard**  
+A mouse and keyboard can be useful even if you have a laptop with these components-built in.  choosing peripherals that are functional and ergonomic are very important when setting up your home workstation.  
 <br>
-Adapters 
-<br>
+#### **Adapters**  
 Depending on your computer you may need adapters to properly plug in your Cintiq display, Webcam or an ethernet cord for faster network speeds.  
