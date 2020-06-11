@@ -5,33 +5,28 @@ date: June 21, 2020
 --- 
 #### For many of your classes you will have to use the Adobe Creative Cloud, more specifically Photoshop, Premiere Pro, After Effect, Audition, Media Encoder and Acrobat.  Here a step-by-step guild on how to install these applications.
 <br>
-To begin your installation of Adobe Creative Cloud, go the website: [GetAdobe.Sheridancollege.ca](https://GetAdobe.sheridancollege.ca) Here you will be able to sign in with your Sheridan Username and Password and claim your Adobe license.  
+To begin your installation of Adobe Creative Cloud, go the website: **[GetAdobe.Sheridancollege.ca](https://GetAdobe.sheridancollege.ca)** Here you will be able to sign in with your Sheridan Username and Password and claim your Adobe license.  
 <br>
 Now that you have your license go to **[www.Adobe.com](http://www.Adobe.com)** and press the “Sign In” button in the top left corner.  
 <br>
 You will be brought to a Sign In page.  Where it says “Email Address” make sure to input your **Sheridan E-mail** press the **“Continue”** button.  
 <br>
-Now in the “Select an account” page choose the Company or School Account option.  This will send you to Sheridan login page.  
+Now in the **Select an account** page choose the Company or School Account option.  This will send you to Sheridan login page.  
 <br>
-On Sheridan’s login page logon with your Sheridan Username and Password.  Once you do this you will be sent back to Adobe.com where you can open the creative cloud.  Select the “Open” button under the Creative Cloud heading to do this.  
+On Sheridan’s login page logon with your Sheridan Username and Password.  Once you do this you will be sent back to Adobe.com where you can open the creative cloud.  Select the **“Open”** button under the Creative Cloud heading to do this.  
 <br>
-Now that you are logged into creativecloud.adobe.com select the Creative Cloud tab and select the Download button.   
+Now that you are logged into **creativecloud.adobe.com** select the **Creative Cloud** tab and select the **Download** button.   
 <br>
-When the download completes initialize the installer and select “Continue” when the Creative Cloud Installer opens. When in begins select “Start Installing” keep in mind this installation may take some time. 
+When the download completes initialize the installer and select **“Continue”** when the Creative Cloud Installer opens. When in begins select **“Start Installing”**, keep in mind this installation may take some time. 
 <br>
 Once installed you will be invited to take a tour of the “Creative Cloud Desktop App” It may be a good idea to familiar yourself with the interface. 
 <br>
-From the “Creative Cloud Desktop App” choose the All apps tab from the top left and Press the Install button in the appropriate App headings.  Make sure to install the following Adobe applications.  
+From the **“Creative Cloud Desktop App”** choose the **All apps** tab from the top left and Press the Install button in the appropriate App headings.  Make sure to install the following Adobe applications.  
 <br>
 #### Photoshop 
-<br>
 #### Premiere Pro  
-<br>
 #### After Effects  
-<br>
 #### Audition   
-<br>
 #### Media Encoder  
-<br>
 #### Acrobat 
 

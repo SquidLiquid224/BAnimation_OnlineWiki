@@ -4,13 +4,13 @@ title: Downloading, Installing and Activating Autodesk Maya and Mudbox
 date: June 22, 2020
 --- 
 #### Installing Autodesk products at home is easy due to Autodesk's free education licenses.  This software is taught in second year, so you may want to skip this topic is you are a First-Year student. To start, go to Autodesk’s Free software website:  
-#### https://www.autodesk.com/education/free-software 
+#### [www.autodesk.com/education/free-software](https://www.autodesk.com/education/free-software) 
 <br>
 #### **Downloading** 
 <br>
-Once there, click on the scroll down to the Free education license products list and find the software that you wish to download and install on your home computer.  Follow the link to that software.  
+Once there, scroll down to the free educational license products list and find the software that you wish to download and install on your home computer.  Follow the link to that software.  
 <br>
-Next you will have to create an Autodesk Account. Underneath the product description select the second option “Create Account” 
+Next you will have to create an Autodesk Account. Underneath the product description select the second option **Create Account”** 
 On the Get education benefits webpage use the drop-down option to complete your details and select the “NEXT” button.   
 <br>
 On the Create account page fill in your personal details.  Make sure to use your Sheridan E-mail address on this page.  Once you have entered your details you will need to verify your Autodesk account through Sheridan's logon on page.  When you have completed your verification, you will be redirected back to the Autodesk Free Software website. Now you will be able to claim your license key and download your software.  
