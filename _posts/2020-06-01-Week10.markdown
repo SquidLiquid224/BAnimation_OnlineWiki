@@ -7,9 +7,9 @@ date: June 21, 2020
 <br>
 To begin your installation of Adobe Creative Cloud, go the website: [GetAdobe.Sheridancollege.ca](https://GetAdobe.sheridancollege.ca) Here you will be able to sign in with your Sheridan Username and Password and claim your Adobe license.  
 <br>
-Now that you have your license go to [www.Adobe.com](http://www.Adobe.com) and press the “Sign In” button in the top left corner.  
+Now that you have your license go to **[www.Adobe.com](http://www.Adobe.com)** and press the “Sign In” button in the top left corner.  
 <br>
-You will be brought to a Sign In page.  Where it says “Email Address” make sure to input your Sheridan E-mail press the “Continue” button. 
+You will be brought to a Sign In page.  Where it says “Email Address” make sure to input your **Sheridan E-mail** press the **“Continue”** button.  
 <br>
 Now in the “Select an account” page choose the Company or School Account option.  This will send you to Sheridan login page.  
 <br>
