@@ -17,15 +17,15 @@ On the Create account page fill in your personal details.  Make sure to use your
 <br>
 Back on the Autodesk free software page fill in the following details of the software:  
 <br>
-**Version**   
-Maya 2020  
-Mudbox 2019  
-<br>
-**Operating system**  
-Window or Mac  
-<br>
-**Choose the language of the software.**   
-For tech support reasons please choose English  
+    **Version**   
+    Maya 2020  
+    Mudbox 2019  
+    <br>
+    **Operating system**  
+    Window or Mac  
+    <br>
+    **Choose the language of the software.**   
+    For tech support reasons please choose English  
 <br>
 Once you have filled out your software details you will be sent an E-mail by Autodesk with your Software license key.   
 **NOTE: Make sure to keep this E-mail safe because it will allow you to activate your software.**   
@@ -34,9 +34,9 @@ Now you can download and install your Software.  By default, the **“INSTALL NO
 <br>
 **NOTE: This method can be unstable at times.  I recommend selecting the arrow to the right of the “INSTALL NOW” button and select “DOWNLOAD NOW”.**     
 <br>
-The **“Download Now”** will allow you to download the software and install the software separately using the Autodesk Download Manager.   
+The **“Download Now”** will allow you to download the software and install the software separately using the **Autodesk Download Manager**.   
 <br>
-When the Autodesk Download manager has finished downloading, initialize the installer.  Agree to the installation and in the “Save Download” press **“OK”**   
+When the Autodesk Download manager has finished downloading, initialize the installer.  Agree to the installation and in the **“Save Download”** press **“OK”**   
 <br>
 **NOTE: depending on your Internet connection this may take a long time due to the large size of the installation file.**    
 <br>
@@ -46,13 +46,14 @@ When the download is complete select the **“Install”** button.
 <br>
 When the installation window appears select the **“Agree”** button and the **“Next”** button and finally the **“Install”** button.    
 <br>
-When the “Data collection and use” window pops up I recommend unchecking the Agreement and pressing “OK”    
+When the **“Data collection and use”** window pops-up I recommend **unchecking** the Agreement and pressing **“OK”**    
 <br>
 When the installation is complete select the **“Start”** button   
 <br>
 #### **Activating**    
 <br>
-Now you will need to activate your software.  On the "Let’s Get Started window"select the blue text that reads **"Enter a serial number”**   
+Now you will need to activate your software.  
+On the **"Let’s Get Started window"** select the blue text that reads **"Enter a serial number”**   
 <br>
 Select the **“I Agree”** button on the Autodesk Privacy Statement.    
 <br>
