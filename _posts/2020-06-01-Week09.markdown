@@ -3,67 +3,61 @@ layout: post
 title: Downloading, Installing and Activating Autodesk Maya and Mudbox
 date: June 22, 2020
 --- 
-Installing Autodesk products at home is easy due to Autodesk's free education licenses.  This software is taught in second year, so you may want to skip this topic is you are a First-Year student. To start, go to Autodesk’s Free software website: 
-
-https://www.autodesk.com/education/free-software 
-
-Downloading 
-
-    Once there, click on the scroll down to the Free education license products list and find the software that you wish to download and install on your home computer.   Follow the link to that software. 
-
-    Next you will have to create an Autodesk Account. Underneath the product description select the second option “Create Account” 
-
-    On the Get education benefits webpage use the drop-down option to complete your details and select the “NEXT” button.  
-
-    On the Create account page fill in your personal details.  Make sure to use your Sheridan E-mail address on this page.  Once you have entered your details you will need to verify your Autodesk account through Sheridan's logon on page.  When you have completed your verification, you will be redirected back to the Autodesk Free Software website. Now you will be able to claim your license key and download your software.  
-
-    Back on the Autodesk free software page fill in the following details of the software: 
-
-    Version 
-
-    Maya 2020 
-
-    Mudbox 2019 
-
-    Operating system 
-
-    Window or Mac 
-
-    Choose the language of the software. 
-
-    For tech support reasons please choose English 
-
-    Once you have filled out your software details you will be sent an E-mail by Autodesk with your Software license key. Make sure to keep this E-mail safe because it will allow you to activate your software. 
-
-    Now you can download and install your Software.  By default, the “INSTALL NOW” button will be active, if you press it a web installer will automate your installation.   
-
-    NOTE: This method can be unstable at times.  I recommend selecting the arrow to the right of the “INSTALL NOW” button and select “DOWNLOAD NOW”.   
-
-    The “Download Now” will allow you to download the software and install the software separately using the Autodesk Download Manager.   
-
-    When the Autodesk Download manager has finished downloading, initialize the installer.  Agree to the installation and in the “Save Download” press “OK” 
-
-    Note: depending on your Internet connection this may take a long time due to the large size of the installation file.  
-
-Installing  
-
-    When the download is complete select the “Install” button. 
-
-    When the installation window appears select the “Agree” button and the “Next” button and finally the “Install” button.  
-
-    When the “Data collection and use” window pops up I recommend unchecking the Agreement and pressing “OK”  
-
-    When the installation is complete select the “Start” button 
-
-Activating  
-
-    Now you will need to activate your software.  On the Let’s Get Started window select the blue text that reads “enter a serial number” 
-
-    Select the “I Agree” button on the Autodesk Privacy Statement  
-
-    Then on the Product License Activation page select the “Activate” button 
-
-    Finally, on the Enter Serial Number and Product Key page input the Serial Number and Product Key that was sent to you in an E-mail from Autodesk. The serial number should look something like this 900-78234593 
-
-    Make sure you are connected to the Internet and select the “Activate” button. You should now have full access to your Autodesk software.  
+#### Installing Autodesk products at home is easy due to Autodesk's free education licenses.  This software is taught in second year, so you may want to skip this topic is you are a First-Year student. To start, go to Autodesk’s Free software website:  
+#### https://www.autodesk.com/education/free-software 
+<br>
+#### **Downloading** 
+<br>
+Once there, click on the scroll down to the Free education license products list and find the software that you wish to download and install on your home computer.  Follow the link to that software.
+<br>
+Next you will have to create an Autodesk Account. Underneath the product description select the second option “Create Account” 
+On the Get education benefits webpage use the drop-down option to complete your details and select the “NEXT” button. 
+<br>
+On the Create account page fill in your personal details.  Make sure to use your Sheridan E-mail address on this page.  Once you have entered your details you will need to verify your Autodesk account through Sheridan's logon on page.  When you have completed your verification, you will be redirected back to the Autodesk Free Software website. Now you will be able to claim your license key and download your software.
+<br>
+Back on the Autodesk free software page fill in the following details of the software:
+<br>
+Version 
+Maya 2020 
+Mudbox 2019 
+<br>
+Operating system
+Window or Mac
+<br>
+Choose the language of the software. 
+For tech support reasons please choose English
+<br>
+Once you have filled out your software details you will be sent an E-mail by Autodesk with your Software license key. Make sure to keep this E-mail safe because it will allow you to activate your software. 
+<br>
+Now you can download and install your Software.  By default, the “INSTALL NOW” button will be active, if you press it a web installer will automate your installation.   
+<br>
+NOTE: This method can be unstable at times.  I recommend selecting the arrow to the right of the “INSTALL NOW” button and select “DOWNLOAD NOW”.   
+<br>
+The “Download Now” will allow you to download the software and install the software separately using the Autodesk Download Manager.   
+<br>
+When the Autodesk Download manager has finished downloading, initialize the installer.  Agree to the installation and in the “Save Download” press “OK” 
+<br>
+Note: depending on your Internet connection this may take a long time due to the large size of the installation file.  
+<br>
+#### **Installing**  
+<br>
+When the download is complete select the “Install” button. 
+<br>
+When the installation window appears select the “Agree” button and the “Next” button and finally the “Install” button.  
+<br>
+When the “Data collection and use” window pops up I recommend unchecking the Agreement and pressing “OK”  
+<br>
+When the installation is complete select the “Start” button 
+<br>
+#### **Activating**  
+<br>
+Now you will need to activate your software.  On the Let’s Get Started window select the blue text that reads “enter a serial number” 
+<br>
+Select the “I Agree” button on the Autodesk Privacy Statement  
+<br>
+Then on the Product License Activation page select the “Activate” button 
+<br>
+Finally, on the Enter Serial Number and Product Key page input the Serial Number and Product Key that was sent to you in an E-mail from Autodesk. The serial number should look something like this 900-78234593 
+<br>
+Make sure you are connected to the Internet and select the “Activate” button. You should now have full access to your Autodesk software.  
 
