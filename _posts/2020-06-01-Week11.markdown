@@ -20,12 +20,14 @@ Follow the steps/directions to activate the free desktop subscription
 Download both Toon Boom Harmony and Toon Boom Stry board Pro and install the software.  
 <br>
 Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps  
+<ul>
 * Click the System Preferences icon in the Dock.  
 * Choose the Security icon  
 * Click the Lock icon in the bottom left corner.   
 * To unlock, type an administrator name and password.  
 * Click Unlock.  
 * Click the Close button.  
+</ul>
 <br>
 Then the InstallShield Wizard appears select Next  
 <br>
