@@ -18,4 +18,11 @@ Once you have created an account on the Toon Boom website with your Sheridan E-m
 Follow the steps/directions to activate the free desktop subscription
 
 Download both Toon Boom Harmony and Toon Boom Stry board Pro and install the software. 
-NOTE: On the Mac operating system you may need to open the installation permission to do this. 
+
+Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps  
+* Click the System Preferences icon in the Dock.  
+* Choose the Security icon  
+* Click the Lock icon in the bottom left corner.   
+* To unlock, type an administrator name and password.  
+* Click Unlock.  
+* Click the Close button.  
