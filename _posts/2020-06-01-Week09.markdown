@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downloading, Installing and Activating Autodesk Maya and Mudbox
+title: Installing Autodesk Maya and Mudbox
 date: June 22, 2020
 --- 
 #### Installing Autodesk products at home is easy due to Autodesk's free education licenses.  This software is taught in second year, so you may want to skip this topic is you are a First-Year student. To start, go to Autodesk’s Free software website:  
