@@ -13,9 +13,5 @@ Member Profile: Student
 
 School: Sheridan College  
 
-Once you have created an account on the Toon Boom website with your Sheridan E-mail return to [Store.ToonBoom.com/coe](https://store.toonboom.com/coe) and sign in with your Toon Boom Username and Password.   
+Once you have created an account on the Toon Boom website with your Sheridan E-mail return to https://store.toonboom.com/coe and sign in with your Toon Boom Username and Password.   
 
-Follow the steps/directions to activate the free desktop subscription
-
-Download both Toon Boom Harmony and Toon Boom Stry board Pro and install the software. 
-NOTE: On the Mac operating system you may need to open the installation permission to do this. 
