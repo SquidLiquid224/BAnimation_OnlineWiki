@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useing Online Platforms (Slate, Zoom, Microsoft Teams)  
+title: Using Online Platforms (Slate, Zoom, Microsoft Teams)  
 date: June 19, 2020
 --- 
 Slate
