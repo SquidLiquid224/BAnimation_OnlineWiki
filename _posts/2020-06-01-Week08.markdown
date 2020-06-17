@@ -3,7 +3,7 @@ layout: post
 title: Setting up your Wacom One Cintiq 
 date: June 23, 2020
 --- 
-#### You will receive a Wacom One 13” Cintiq for your class assignments.  Open the box and follow the instruction on the inside.   
+#### To properly work on your assignments, you will need a digital drawing tablet.  The Animation department recommends the “Wacom One” it is an entry level screen-based drawing tablet that is specially priced for Sheridan Animation students. A link will be provided to you so that you can purchase the tablet at this price.  Below are instructions to set up the Wacom One tablet.         
 
 You will first need an HDMI port on your computer to complete step one.  If your computer does not have an HDMI port, you will have to purchase an adapter that has a male connection to your computer and a Female HDMI connection.  below is a list of adapters that may work for you home set up.  
 * Male DVI to Female HDMI  
