@@ -8,7 +8,7 @@ date: June 19, 2020
 
 * Stop Motion Studio software (available for Mac or PC)
 
-* a webcam that is compatible with the software (For more info on this see the Computer Peripherals section)
+* a webcam that is compatible with the software (For more info on this see the [Computer Peripherals](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week05) section)
 
 * basic tripod that is compatible with the webcam (For more info on this see the [Computer Peripherals](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week05) section)
 
@@ -23,8 +23,8 @@ NOTE: other common materials will also be used and this list will be provided in
 
 * Use a tripod or stand that connects to your mobile device.
 
-#### **Installing Stop Motion Studio Pro**
-
+#### **Installing Stop Motion Studio Pro**  
+<br>
 * go to https://www.cateater.com/ and scroll to the bottom of the web page
 
 * select the version of Stop-Motion studio pro you would like to install 
