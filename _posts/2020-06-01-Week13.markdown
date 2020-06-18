@@ -14,7 +14,7 @@ date: June 19, 2020
 
 * clay/plastercine. Any brand any colour, approx. 1 pound.
 
-NOTE: other common materials will also be used, and this list will be provided in Week 1.
+NOTE: other common materials will also be used and this list will be provided in Week 1.
 
 
 #### To simplify:
@@ -23,3 +23,24 @@ NOTE: other common materials will also be used, and this list will be provided i
 
 * Use a tripod or stand that connects to your mobile device.
 
+#### Installing Stop Motion Studio Pro
+
+* go to https://www.cateater.com/ and scroll to the bottom of the web page
+
+* select the version of Stop-Motion studio pro you would like to install 
+
+* depending on your platform (Windows, Mac, mac mobile or android) You will have to create an account. 
+
+* I will go though the Windows installation 
+
+* select this windows version and purchase the software
+
+* You will be forwarded to the Microsoft app store. 
+
+* Make sure you have a microsoft accound and have activated it on your windows computers to do this follow this Microsoft walk through ---->
+
+* when the "Pick where you want to install" window appears select your computer from the list and select "Install now".  If you device is not on the list you will have to link your microsoft account again. 
+
+* select "Ok" at the "Installing on your devises" window
+
+* the window will disappear without opening the software, this is OK.  Search Stop Motion Studio in the "seach" bar and open the program.  The program will load up and your ready to make some Stop-motion animation.   
