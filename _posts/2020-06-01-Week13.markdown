@@ -21,9 +21,10 @@ NOTE: other common materials will also be used and this list will be provided in
 
 * Use a mobile (phone or tablet) version of Stop Motion Studio.
 
-* Use a tripod or stand that connects to your mobile device.  
-<!-- end of the list -->
+* Use a tripod or stand that connects to your mobile device.\n\n  
+
 <br>
+
 #### **Installing Stop Motion Studio Pro**  
 
 * go to https://www.cateater.com/ and scroll to the bottom of the web page
