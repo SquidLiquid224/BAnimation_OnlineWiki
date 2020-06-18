@@ -24,7 +24,7 @@ NOTE: other common materials will also be used and this list will be provided in
 * Use a tripod or stand that connects to your mobile device.  
 <br>
 #### **Installing Stop Motion Studio Pro**  
-<br>
+
 * go to https://www.cateater.com/ and scroll to the bottom of the web page
 
 * select the version of Stop-Motion studio pro you would like to install 
