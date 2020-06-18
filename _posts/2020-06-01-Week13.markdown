@@ -19,7 +19,7 @@ NOTE: other common materials will also be used and this list will be provided in
 
 #### To simplify:
 
-* Use a mobile (for phone or tablet) version of Stop Motion Studio.
+* Use a mobile (phone or tablet) version of Stop Motion Studio.
 
 * Use a tripod or stand that connects to your mobile device.
 
@@ -43,4 +43,4 @@ NOTE: other common materials will also be used and this list will be provided in
 
 * select "Ok" at the "Installing on your devises" window
 
-* the window will disappear without opening the software, this is OK.  Search Stop Motion Studio in the "seach" bar and open the program.  The program will load up and your ready to make some Stop-motion animation.   
+* the window will disappear without opening the software, this is OK.  Search "Stop Motion Studio" in the "seach" bar and open the program.  The program will load up and your ready to make some Stop-motion animation.   
