@@ -82,7 +82,7 @@ Radeon Pro Vega 64
 <br>
 ### **2. Do you have a tablet that will work properly for animation?**  
 <br>
-#### The second thing you should prepare for your online classes is a Wacom Tablet.  Sheridan has included this in tuition and you will be receiving this shortly. Detailed instructions on the setup and installing the drivers will be covered in detail later.  
+#### The second thing you should prepare for your online classes is a Wacom Tablet.  Sheridan has reduced your tuition and you will have to purchase your own tablet the **Wacom One** is recommended and avaiable at a reduced price. Detailed instructions on purchaseing, setup and installing the drivers are covered on this page.  [Setting up your Wacom One Cintiq](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week08)
 <br>
 ### **3. Lastly, is your internet connection fast enough to properly work remotely?**  
 <br>
