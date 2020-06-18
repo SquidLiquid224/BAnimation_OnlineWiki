@@ -11,7 +11,9 @@ date: June 24, 2020
 * Scroll to the bottom and select Update and Security.   
 * Select the first option Windows Update tab in the sidebar (Circular arrows)   
 * Select Check for updates. If there is an available update, it will begin downloading automatically.\n\n   
+
 <br>
+
 #### **Updating your iOS (Mac) operating system** 
 * Choose System Preferences from the Apple menu, then click Software Update.  
 * If any updates are available, click the Update button to install them. 
