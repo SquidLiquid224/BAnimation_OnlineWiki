@@ -8,9 +8,9 @@ date: June 19, 2020
 
 * Stop Motion Studio software (available for Mac or PC)
 
-* a webcam that is compatible with the software 
+* a webcam that is compatible with the software (For more info on this see the Computer Peripherals section)
 
-* basic tripod that is compatible with the webcam
+* basic tripod that is compatible with the webcam (For more info on this see the [Computer Peripherals](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week05) section)
 
 * clay/plastercine. Any brand any colour, approx. 1 pound.
 
