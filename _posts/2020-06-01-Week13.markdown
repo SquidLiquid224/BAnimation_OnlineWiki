@@ -4,7 +4,7 @@ title: Tech Requirements for fall 3rd year stop motion course (ANIM 17721)
 date: June 19, 2020
 ---
 
-#### The required software and hardware for this couse are.
+#### **The required software and hardware for this couse are.**
 
 * Stop Motion Studio software (available for Mac or PC)
 
@@ -23,7 +23,7 @@ NOTE: other common materials will also be used and this list will be provided in
 
 * Use a tripod or stand that connects to your mobile device.
 
-#### Installing Stop Motion Studio Pro
+#### **Installing Stop Motion Studio Pro**
 
 * go to https://www.cateater.com/ and scroll to the bottom of the web page
 
