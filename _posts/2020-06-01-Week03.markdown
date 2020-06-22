@@ -3,6 +3,9 @@ layout: post
 title: Choosing a computer (Laptop vs. Desktop) 
 date: June 28, 2020
 --- 
+
+When shopping for a computer there are many factors to consider. One of the biggest factors is weather you should purchase a Laptop computer or a Desktop Computer.  Generally, Desktop computers are recommended for production animation work.  They offer more power for less cost and are much more versatile for upgrades and repairs.  Although, as a student you should make this decision based on your own personal needs.   
+<br> 
 ### **Laptops**
 <br>  
 The greatest feature of a laptops is that it is a very mobile platform, if you travel often or commute long distances this option might be right for you.  They also generally come ready to go out of the box, which is a huge plus if you are not familiar with installing an operating system.  
