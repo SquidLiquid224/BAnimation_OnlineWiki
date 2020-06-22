@@ -35,7 +35,7 @@ Note: When installing software from Toon Boom on a Mac computer you may need to 
 * Click the Lock icon in the bottom left corner.   
 * To unlock, type an administrator name and password.  
 * Click Unlock.  
-* Click the Close button.\n\n  
+* Click the Close button.  
 
 <br>
 
