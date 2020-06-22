@@ -3,11 +3,12 @@ layout: post
 title: Installing Toon Boom Harmony and Story Board Pro  
 date: June 20, 2020
 --- 
-To install Toon Boom Harmony and Toon Boom Story Board Pro go to [https://store.toonboom.com/coe](https://store.toonboom.com/coe)   
+To install Toon Boom Harmony and Toon Boom Story Board Pro go to  
+[https://store.toonboom.com/coe](https://store.toonboom.com/coe)   
 <br>
-First you will have to create a Toon Boom user account with your Sheridan E-mail address.  
+* First, you will have to create a Toon Boom user account with your Sheridan E-mail address.  
 <br>
-Select the “join now” link to fill in your details.  Please make sure you fill out the details correctly.  
+* Select the “join now” link to fill in your details.  Please make sure you fill out the details correctly.  
 <br>
 * E-mail: Sheridan E-mail address (username@sheridancollege.ca)  
 * Member Profile: Student  
@@ -20,20 +21,21 @@ Follow the steps/directions to activate the free desktop subscription
 Download both Toon Boom Harmony and Toon Boom Stry board Pro and install the software.  
 <br>
 Note: When installing Wacom drivers on a Mac computer you may need to unlock your security settings to allow installation.  To do this follow these steps  
-<ul>
+<br>
 * Click the System Preferences icon in the Dock.  
 * Choose the Security icon  
 * Click the Lock icon in the bottom left corner.   
 * To unlock, type an administrator name and password.  
 * Click Unlock.  
 * Click the Close button.  
-</ul>
+
 <br>
-Then the InstallShield Wizard appears select Next  
+
+* When the InstallShield Wizard appears select Next  
 <br>
-Check "I Accept the terms in the license agreement" and select Next again  
+* Check "I Accept the terms in the license agreement" and select Next again  
 <br>
-Select next to the default installation path  
+* Select "next" to the default installation path  
 <br>
 At the Installation Type menu choose the Standalone option.  The Complete option only enables the Network features and are not needed for your classes.  
 <br>
