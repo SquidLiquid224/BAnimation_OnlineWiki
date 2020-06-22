@@ -53,7 +53,7 @@ Before you select the "Finish" button it is recommended that you **install Quick
 <br>
 Selecting the "Install QuicktTime 7" option with open up your web browser to. [support.apple.com Quicktime](https://support.apple.com/kb/DL837?locale=en_CA)  
 <br>
-Download and install QuickTime because it enables some features within Toon Boom. 
+Download and install QuickTime because it enables some features within Toon Boom.  
 NOTE: This may only be necessary for Windows users.  
 <br>
 When QuickTime is installed select the Fishing button on the ToonBoom installation window to complete the installation.  
