@@ -39,21 +39,21 @@ Note: When installing software from Toon Boom on a Mac computer you may need to 
 
 <br>
 
-Initialize the download and when the InstallShield Wizard appears select "Next"  
+Initialize the download and when the InstallShield Wizard appears select "Next".  
 <br>
-Check "I Accept the terms in the license agreement" and select Next again  
+Check "I Accept the terms in the license agreement" and select "Next" again.  
 <br>
-Select "next" to the default installation path  
+Select "next" to the default installation path.  
 <br>
 At the Installation Type menu choose the Standalone option.  The Complete option only enables the Network features and are not neededfor your classes.  
 <br>
 Finally select the "Install" button and wait for the installation to complete.  
 <br>
-Before you select the "Finish" button it is recommended that you **install QuickTime 7** by selecting the "Install QuickTime 7" button  
+Before you select the "Finish" button it is recommended that you **install QuickTime 7** by selecting the "Install QuickTime 7". button  
 <br>
-Selecting the Install QuicktTime 7 option with open up your web browser. to [support.apple.com](https://support.apple.com/kb/DL837?locale=en_CA)  
+Selecting the Install QuicktTime 7 option with open up your web browser to. [support.apple.com](https://support.apple.com/kb/DL837?locale=en_CA)  
 <br>
-Download and install QuickTime  
+Download and install QuickTime because it enables some features within Toon Boom. 
 NOTE: This may only be necessary for Windows users.  
 <br>
 When QuickTime is installed select the Fishing button on the ToonBoom installation window to complete the installation.  
