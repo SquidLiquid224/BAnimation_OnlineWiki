@@ -4,11 +4,11 @@ title: Installing Toon Boom Harmony and Story Board Pro
 date: June 20, 2020
 --- 
 To install Toon Boom Harmony and Toon Boom Story Board Pro go to  
-[https://store.toonboom.com/coe](https://store.toonboom.com/coe)   
+**** [https://store.toonboom.com/coe](https://store.toonboom.com/coe)   
 <br>
-* First, you will have to create a Toon Boom user account with your Sheridan E-mail address.  
+First, you will have to create a Toon Boom user account with your Sheridan E-mail address.  
 <br>
-* Select the “join now” link to fill in your details.  Please make sure you fill out the details correctly.  
+Select the **“join now”** link to fill in your details.  Please make sure you fill out the details correctly.  
 <br>
 * E-mail: Sheridan E-mail address (username@sheridancollege.ca)  
 * Member Profile: Student  
