@@ -5,14 +5,14 @@ date: June 29, 2020
 --- 
 When preparing for online classes you should consider three main aspects of your home workstation.  
 <br>
-* #### Is your computer fast enough for the required software?  
+* #### Is your computer fast enough to run the required software?  
 * #### Do you have a tablet that will work properly for animation?  
 * #### Lastly, is your internet connection fast enough to properly work remotely?   
 <br>
  
 
 ### **1. Is your computer fast enough for the required software?**  
-Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are.  
+Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are described below.  
 <br>
 #### **Minimum Windows based workstation**
 <br>
@@ -83,6 +83,7 @@ Radeon Pro Vega 64
 ### **2. Do you have a tablet that will work properly for animation?**  
 <br>
 The second thing you should prepare for your online classes is a digital drawing tablet.  Sheridan has reduced your tuition to help you purchase your own tablet, the **Wacom One** is recommended and avaiable at a reduced price. Detailed instructions on purchaseing, setup and installing the drivers are covered on this page.  
+**NOTE: If you already own a tablet you are welcome to use that model, the Wacom One is just the basic model that is recommended.** 
 #### [Setting up your Wacom One Cintiq](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week08)
 <br>
 ### **3. Lastly, is your internet connection fast enough to properly work remotely?**  
