@@ -65,7 +65,7 @@ AMD Radeon R9 Fury/X or FirePro GPU
 #### **Monitor**
 1920 x 1080 display, or higher  
 <br>
-### **Recommended Mac based workstation**
+#### **Recommended Mac based workstation**
 <br>
 #### **CPU processor**  
 Intel Core i7 or Xeon processor   
