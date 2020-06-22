@@ -20,5 +20,5 @@ If you are confident in building a computer from components a very helpful websi
 <br>
 PC Part Picker is great for analyzing the compatibility of your computer components.  Although, it is still recommended that you do further research to validate the compatibility of the parts.  The site queries many online marketplaces for pricing and availability, which can potentially save you money. The site also provides detailed component guides as well as examples of completed builds.<br>  
 <br>
-Note: Only attempt to build a computer if you are technically competent or have someone at your deposal who is. Some computer shops provide this service.  
+**Note: Only attempt to build a computer if you are technically competent or have someone at your deposal who is. Some computer shops provide this service.**  
 
