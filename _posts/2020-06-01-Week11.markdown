@@ -45,7 +45,7 @@ Check "I Accept the terms in the license agreement" and select "Next" again.
 <br>
 Select "Next" to the default installation path.  
 <br>
-At the Installation Type menu choose the Standalone option.  The Complete option only enables the Network features and are not needed for your classes.  
+At the Installation type menu choose the "Stand-alone: option.  The "Complete" option only enables the Network features and are not needed for your classes.  
 <br>
 Finally select the "Install" button and wait for the installation to complete.  
 <br>
