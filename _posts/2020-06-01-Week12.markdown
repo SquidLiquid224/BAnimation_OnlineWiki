@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Using Online Platforms (Under Construction)  
+title: Online Meeting Platforms (Under Construction)  
 date: June 19, 2020
 --- 
-Slate
-
 Zoom
+
+WebEx
+
+Bongo
 
 Microsoft Teams
 
