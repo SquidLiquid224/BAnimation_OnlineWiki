@@ -82,7 +82,7 @@ Radeon Pro Vega 64
 <br>
 ### **2. Do you have a tablet that will work properly for animation?**  
 <br>
-The second thing you should prepare for your online classes is a digital drawing tablet.  Sheridan has reduced your tuition to help you purchase your own tablet, the **Wacom One** is recommended and avaiable at a reduced price. Detailed instructions on purchaseing, setup and installing the drivers are covered on this page.  
+The second thing you should prepare for your online classes is a digital drawing tablet. Sheridan has reduced your tuition to help you purchase your own tablet, the **Wacom One** is recommended and available at a reduced price. Detailed instructions on purchasing, setup and installing the drivers are covered on this page(coming soon).    
 **NOTE: If you already own a tablet you are welcome to use that model, the Wacom One is just the basic model that is recommended.** 
 #### [Setting up your Wacom One Cintiq](https://squidliquid224.github.io/BAnimation_OnlineWiki/articles/Week08)
 <br>
