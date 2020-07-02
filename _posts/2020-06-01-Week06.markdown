@@ -17,3 +17,5 @@ The height and distance you are away from your mouse and keyboard is also import
 #### **How ergonomic your chair is, does it have arm rests and is it height adjustable.**   
 One of the most important pieces of your home workstation is your chair.  The more adjustable the chair is the better it will be able to fit your body.  Make sure that the height of the chair allows your feet to be flat on the ground.  A chair with good lumbar support will help prevent back pain.  Having arm rest on your chair will also cut back on shoulder strain.   Most importantly you must feel comfortable in your computer chair and take lots of breaks to walk around and stretch.  Footrests can also greatly increase the comfort of your workstation.  
 
+<p align="center">
+<img src="../images/ergonomics.jpg">
