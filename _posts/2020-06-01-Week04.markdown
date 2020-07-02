@@ -25,3 +25,6 @@ The term refresh rate refers to how fast the monitor can change colours. This pr
 #### **Special features**  
 Some monitors offer special features such as picture in picture display or USB-C docking option for charging your laptop.  Make sure to pick a monitor that will best suit your home workstation.  
 
+<p align="center">
+<img src="../images/Baby_monitors.jpg">
+
