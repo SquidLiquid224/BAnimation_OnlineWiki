@@ -22,3 +22,6 @@ PC Part Picker is great for analyzing the compatibility of your computer compone
 <br>
 **Note: Only attempt to build a computer if you are technically competent or have someone at your deposal who is. Some computer shops provide this service.**  
 
+
+<p align="center">
+<img src="../images/Laptop_Desktop.jpg">
