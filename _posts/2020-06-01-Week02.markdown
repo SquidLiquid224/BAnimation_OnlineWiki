@@ -10,7 +10,8 @@ When preparing for online classes you should consider three main aspects of your
 * #### Lastly, is your internet connection fast enough to properly work remotely?   
 <br>
  
-
+<p align="center">
+<img src="../images/Speedy_computer.jpg">
 ### **1. Is your computer fast enough for the required software?**  
 Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are described below.  
 <br>
