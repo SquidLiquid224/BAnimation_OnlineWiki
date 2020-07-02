@@ -10,8 +10,7 @@ When preparing for online classes you should consider three main aspects of your
 * #### Lastly, is your internet connection fast enough to properly work remotely?   
 <br>
  
-<p align="center">
-<img src="../images/Speedy_computer.jpg">
+
 ### **1. Is your computer fast enough for the required software?**  
 Your home workstation should meet the minimum requirements for Toon Boom Harmony and Adobe Photoshop. The minimum specifications for these programs are described below.  
 <br>
@@ -91,4 +90,7 @@ The second thing you should prepare for your online classes is a digital drawing
 <br>
 You will also need a fast internet connection for online meetings and possibly the remote operation of a Sheridan Workstation.  High-speed internet is generally about 50mbs download and 10mbs upload speed.  This is the ideal speed for online working, although; you may be able to work with speeds of 12mbs Download and 4mbs upload. To check your internet connection speed, go to fast.com and from there make upgrades to your internet service as needed. Below is a link to a detailed document on internet speeds and services.  
 #### [Internet Connection Guide](http://mactech.sheridanc.on.ca/internet) 
+
+<p align="center">
+<img src="../images/Speedy_computer.jpg">
 
