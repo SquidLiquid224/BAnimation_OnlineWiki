@@ -9,7 +9,7 @@ date: June 19, 2020
 Zoom is a popular online meeting software and will be used frequently throughout your online classes.  
 Here is a how to guide for installing Zoom on your home computer.
 
-* First, download the installer for Zoom by following this links:[Zoom Windows Download](https://zoom.us/download)
+* First, download the installer for Zoom by following this links: [Zoom Download](https://zoom.us/download)
 
 * Next, run the installer and open the software. 
 
@@ -19,7 +19,7 @@ Here is a how to guide for installing Zoom on your home computer.
   If it asks for your company domain, specify: **sheridancollege**   
   If it asks for your company email, specify: your **Sheridan email address**
 
-* The Sheridan Single Sign On (SSO) interface will now appear
+* The Sheridan Single Sign On (SSO) interface will now appear.
 
 * Enter your **Sheridan username** & your **Sheridan password**, then click **Login**
 
