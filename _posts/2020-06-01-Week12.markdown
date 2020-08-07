@@ -1,13 +1,29 @@
 ---
 layout: post
-title: Online Meeting Platforms (Under Construction)  
+title: Installing and using Zoom   
 date: June 19, 2020
 --- 
-Zoom
 
-WebEx
+#### **Installing Zoom**
 
-Bongo
+Zoom is a popular online meeting software and will be used frequently throughout your online classes.  
+Here is a how to guide for installing Zoom on your home computer.
 
-Microsoft Teams
+* First, download the installer for Zoom by following this link: [Zoom Download](https://zoom.us/download)
 
+* When the Zoom sign-on interface shows, click the **"Sign in with SSO"** button
+
+* Next Zoom will now ask for 1 of 2 things:
+  If it asks for your company domain, specify: **sheridancollege**
+  If it asks for your company email, specify: your **Sheridan email address**
+
+* The Sheridan Single Sign On (SSO) interface will now appear
+
+* Enter your **Sheridan username** & your **Sheridan password**, then click **Login**
+
+
+#### **Zoom Resources**
+
+Some informative resources to assist in your usage of Zoom
+[Zoom Resources](https://zoom.us/resources)
+[Zoom Youtube tutorials](https://www.youtube.com/playlist?list=PLKpRxBfeD1kEM_I1lId3N_Xl77fKDzSXe)
