@@ -13,16 +13,7 @@ Here is a how to guide for installing Zoom on your home computer.
 
 * Next, run the installer and open the software. 
 
-* When the Zoom sign-on interface shows, click the **"Sign in with SSO"** button
-
-* Next Zoom will now ask for 1 of 2 things:   
-  If it asks for your company domain, specify: **sheridancollege**   
-  If it asks for your company email, specify: your **Sheridan email address**
-
-* The Sheridan Single Sign On (SSO) interface will now appear.
-
-* Enter your **Sheridan username** & your **Sheridan password**, then click **Login**
-
+* Finally, please proceed to make a free account with Zoom. 
 
 #### **Zoom Resources**
 
