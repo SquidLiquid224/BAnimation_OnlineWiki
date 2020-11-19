@@ -37,4 +37,13 @@ Windows Users:
    
 Windows user can connect to a workstation with the new HP ZCentral Remote Boost.  This new software allows you to remote control an animation workstation with more advanced features like Tablet support with pressure sensitivity.  You can find the ZCentral Remote Boost software on AppsAnywhere.   
 
-<img src="../images/RemoteBoost.jpg" alt="ZCentral Icon"> 
+<img src="../images/RemoteBoost.jpg" alt="ZCentral Icon">   
+   
+Mac Users:   
+   
+Unfortunately, the newer ZCentral Remote Boost is not available for the Mac operating system.  Due to this Mac users will have to use HP Remote Graphic Software (RGS)   
+   
+<img src="../images/RGS.jpg" alt="RGS Icon">   
+   
+Note:  Please use all the default setting for the installation and restart your computer before moving on to the next section.   
+    
