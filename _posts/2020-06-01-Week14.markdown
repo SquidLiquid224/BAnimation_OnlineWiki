@@ -8,10 +8,10 @@ date: July 01, 2020
    
 This short walk-through will help you connect to the Sheridan VPN and then the ZCentral Remote boost or RGS system.   
     
-First, you will need to gain access to the Sheridan VPN (Virtual Private Network) by connecting to this VPN your home computer will be on the Sheridan Network and allow you to remote control a Sheridan Computer.  
+First, you will need to gain access to the Sheridan VPN (Virtual Private Network) by connecting to this VPN your home computer will be on the Sheridan Network and allow you to remote control a Sheridan Workstation.  
    
-To do this you will need to register on Sheridan’s Apps Anywhere page.  Appas anywhere is a centralized source for all the software you will need for your classes. To register, please follow this walk-through on the Sheridan IT website:   
-[Sheridan Apps Anywhere](https://it.sheridancollege.ca/service-catalogue/software/appsanywhere.html)   
+To do this you will need to register on Sheridan’s Apps Anywhere page.  Apps Anywhere is a centralized source for all the software you will need for your classes. To register, please follow this walk-through on the Sheridan IT website:   
+[Sheridan Apps Anywhere Walk-through](https://it.sheridancollege.ca/service-catalogue/software/appsanywhere.html)   
     
 The software you need for connecting to the Sheridan VPN is called Cisco AnyConnect.   
 
@@ -25,6 +25,7 @@ Once you have successfully connected to the Sheridan VPN, we can install the rem
    
 Note:  When using the remote access software, the Cisco AnyConnect VPN must be active.  
 You will also have to disable all other VPN’s that might be active on your computer.  
+  
 Make sure to use the address “vpn.sheridancollege.ca” and log in with your Sheridan credentials  
    
 <img src="../images/vpn.jpg" alt="VPN Address">   
@@ -37,13 +38,13 @@ Now that you are connected to the Sheridan VPN via Cicso AnyConnect you can down
    
 Windows Users:   
    
-Windows user can connect to a workstation with the new HP ZCentral Remote Boost.  This new software allows you to remote control an animation workstation with more advanced features like Tablet support with pressure sensitivity.  You can find the ZCentral Remote Boost software on AppsAnywhere.   
+Windows users can connect to a workstation with the new HP ZCentral Remote Boost.  This new software allows you to remote control an animation workstation with more advanced features like tablet support with pressure sensitivity.  You can find the ZCentral Remote Boost software on AppsAnywhere.   
 
 <img src="../images/RemoteBoost.jpg" alt="ZCentral Icon">   
    
 Mac Users:   
    
-Unfortunately, the newer ZCentral Remote Boost is not available for the Mac operating system.  Due to this Mac users will have to use HP Remote Graphic Software (RGS)   
+Unfortunately, the newer ZCentral Remote Boost is not available for the Mac operating system.  Due to this Mac users will have to use HP Remote Graphic Software (RGS).   
    
 <img src="../images/RGS.jpg" alt="RGS Icon">   
    
@@ -105,7 +106,7 @@ Return to the website https://remotelab.sheridanc.on.ca and select to "Release H
    
 Note: Sessions will only be available for 24 hours, after 24 hours the session will be released by the Administrator.   
    
-After you have released the host, click on the upper right person icon on the website to reveal the logoutbutton (Highlighted in red below) Make sure to log out when you are finished.   
+After you have released the host, click on the upper right person icon on the website to reveal the logout button (Highlighted in red below) Make sure to log out when you are finished.   
    
 <img src="../images/rgs10.jpg" alt="Disconnect">   
    
