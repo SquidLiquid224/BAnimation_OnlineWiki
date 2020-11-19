@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tech Requirements for fall 3rd year stop motion course (ANIM 17721)  
-date: June 19, 2020
+date: June 18, 2020
 ---
 
 #### **The required software and hardware for this couse are.**
