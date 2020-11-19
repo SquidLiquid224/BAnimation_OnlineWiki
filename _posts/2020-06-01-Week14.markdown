@@ -15,3 +15,16 @@ To do this you will need to register on Sheridan’s Apps Anywhere page.  Appas 
     
 The software you need for connecting to the Sheridan VPN is called Cisco AnyConnect.   
 
+<img src="../images/Cisco.jpg" alt="Cisco AnyConnect">   
+
+For a detailed walk-through on how to log into Cisco AnyConnect please follow this walk-through on the IT website.  Don’t worry about the employee category of the website, the VPN has been opened to all Animation students for remote learning.  
+   
+[Sheridan VPN Walk-through](https://it.sheridancollege.ca/service-catalogue/software/employee/vpn.html) 
+   
+Once you have successfully connected to the Sheridan VPN, we can install the remote access software.  
+   
+Note:  When using the remote access software, the Cisco AnyConnect VPN must be active.  
+You will also have to disable all other VPN’s that might be active on your computer.  
+Make sure to use the address “vpn.sheridancollege.ca” and log in with your Sheridan credentials  
+   
+<img src="../images/vpn.jpg" alt="VPN Address">   
