@@ -31,7 +31,7 @@ Make sure to use the address “vpn.sheridancollege.ca” and log in with your S
    
    
    
-#### **Installing HP ZCentral Remote Boost or HP RGS.**   
+#### **STEP 02 Installing HP ZCentral Remote Boost or HP RGS.**   
    
 Now that you are connected to the Sheridan VPN via Cicso AnyConnect you can download and install HP ZCentral remote Boost or HP RGS depending on what operating system you have.   
    
@@ -51,7 +51,7 @@ Note:  Please use all the default setting for the installation and restart your 
     
 	
 	
-#### **Connecting to a Sheridan Workstation through the Web Portal.**  
+#### **STEP 03 Connecting to a Sheridan Workstation through the Web Portal.**  
     
 At this point, please make sure that you have the Cisco AnyConnect Installed and connected.
 Also, for best results use Google Chrome or Firefox.   
