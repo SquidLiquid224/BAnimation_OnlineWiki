@@ -4,3 +4,14 @@ title: Remote access walk-through
 date: July 01, 2020
 ---
 
+Connecting to the Sheridan VPN.  
+   
+This short walk-through will help you connect to the Sheridan VPN and then the ZCentral Remote boost or RGS system.   
+    
+First, you will need to gain access to the Sheridan VPN (Virtual Private Network) by connecting to this VPN your home computer will be on the Sheridan Network and allow you to remote control a Sheridan Computer.  
+   
+To do this you will need to register on Sheridan’s Apps Anywhere page.  Appas anywhere is a centralized source for all the software you will need for your classes. To register, please follow this walk-through on the Sheridan IT website:   
+[Sheridan Apps Anywhere](https://it.sheridancollege.ca/service-catalogue/software/appsanywhere.html)   
+    
+The software you need for connecting to the Sheridan VPN is called Cisco AnyConnect.   
+
