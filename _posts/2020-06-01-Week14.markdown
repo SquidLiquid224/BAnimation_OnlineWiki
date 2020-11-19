@@ -67,7 +67,7 @@ Use your Access Sheridan credentials to log in two either of these two windows s
     
 Now that you are logged into Sheridan’s HP ZCentral Connect 2020, Click the button "Choose a Host"   
     
-<img src="../images/rgs6.jpg" alt="Logon">   
+<img src="../images/rgs06.jpg" alt="Logon">   
    
 Note:  If you had left a session due to a disconnection, you would see it listed below under "active sessions" and may reconnect to it.   
     
