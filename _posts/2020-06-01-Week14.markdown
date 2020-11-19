@@ -28,3 +28,13 @@ You will also have to disable all other VPN’s that might be active on your com
 Make sure to use the address “vpn.sheridancollege.ca” and log in with your Sheridan credentials  
    
 <img src="../images/vpn.jpg" alt="VPN Address">   
+   
+Installing HP ZCentral Remote Boost or HP RGS.   
+   
+Now that you are connected to the Sheridan VPN via Cicso AnyConnect you can download and install HP ZCentral remote Boost or HP RGS depending on what operating system you have.   
+   
+Windows Users:   
+   
+Windows user can connect to a workstation with the new HP ZCentral Remote Boost.  This new software allows you to remote control an animation workstation with more advanced features like Tablet support with pressure sensitivity.  You can find the ZCentral Remote Boost software on AppsAnywhere.   
+
+<img src="../images/RemoteBoost.jpg" alt="ZCentral Icon"> 
