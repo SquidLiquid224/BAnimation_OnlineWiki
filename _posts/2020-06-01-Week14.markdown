@@ -47,3 +47,34 @@ Unfortunately, the newer ZCentral Remote Boost is not available for the Mac oper
    
 Note:  Please use all the default setting for the installation and restart your computer before moving on to the next section.   
     
+	
+	
+Connecting to a Sheridan Workstation through the Web Portal.  
+    
+At this point, please make sure that you have the Cisco AnyConnect Installed and connected.
+Also, for best results use Google Chrome or Firefox.   
+   
+Go to the URL [https://remotelab.sheridanc.on.ca](https://remotelab.sheridanc.on.ca)   
+(NOTE: the https: NOT http:)   
+    
+You may need to accept a warning that you are going to an unsecure site, as seen in the images below, click "Advanced" then "Proceed to remotelab.sheridanc.on.ca"    
+
+<img src="../images/connection.jpg" alt="HTTPS">   
+   
+Use your Access Sheridan credentials to log in two either of these two windows shown below.   
+   
+<img src="../images/rgs4.jpg" alt="Logon">   
+    
+Now that you are logged into Sheridan’s HP ZCentral Connect 2020, Click the button "Choose a Host"   
+    
+<img src="../images/rgs6.jpg" alt="Logon">   
+   
+Note:  If you had left a session due to a disconnection, you would see it listed below under "active sessions" and may reconnect to it.   
+    
+On the left side a list of room numbers from the Animation building at Sheridan.  These are called pools, select a pool and then the “Choose a host for me” button.  This will randomly pick a host (Animation workstation) for you.   
+    
+<img src="../images/rgs10b.jpg" alt="Choose Host">   
+    
+Your randomly selected computer will show up as a list on the right select the “Connect to host” button.   
+   
+<img src="../images/rgs13.jpg" alt="Connect to host">   
