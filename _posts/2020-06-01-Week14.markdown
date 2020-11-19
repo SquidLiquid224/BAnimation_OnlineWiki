@@ -4,7 +4,7 @@ title: NEW Remote access walk-through
 date: July 01, 2020
 ---
 
-Connecting to the Sheridan VPN.  
+#### **STEP 01 Connecting to the Sheridan VPN.**  
    
 This short walk-through will help you connect to the Sheridan VPN and then the ZCentral Remote boost or RGS system.   
     
@@ -29,7 +29,9 @@ Make sure to use the address “vpn.sheridancollege.ca” and log in with your S
    
 <img src="../images/vpn.jpg" alt="VPN Address">   
    
-Installing HP ZCentral Remote Boost or HP RGS.   
+   
+   
+#### **Installing HP ZCentral Remote Boost or HP RGS.**   
    
 Now that you are connected to the Sheridan VPN via Cicso AnyConnect you can download and install HP ZCentral remote Boost or HP RGS depending on what operating system you have.   
    
@@ -49,7 +51,7 @@ Note:  Please use all the default setting for the installation and restart your 
     
 	
 	
-Connecting to a Sheridan Workstation through the Web Portal.  
+#### **Connecting to a Sheridan Workstation through the Web Portal.**  
     
 At this point, please make sure that you have the Cisco AnyConnect Installed and connected.
 Also, for best results use Google Chrome or Firefox.   
@@ -107,7 +109,8 @@ After you have released the host, click on the upper right person icon on the we
    
 <img src="../images/rgs10.jpg" alt="Disconnect">   
    
-Your session is now complete, happy remoting 😊   
+Your session is now complete,   
+happy remoting 😊    
    
 If you have any question or concerns, or just need help connecting to the Remote Lab feel free to contact.   
 Banimationtechs@sheridancollege.ca   
