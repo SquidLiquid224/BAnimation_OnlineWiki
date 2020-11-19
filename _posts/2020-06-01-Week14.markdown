@@ -78,3 +78,38 @@ On the left side a list of room numbers from the Animation building at Sheridan.
 Your randomly selected computer will show up as a list on the right select the “Connect to host” button.   
    
 <img src="../images/rgs13.jpg" alt="Connect to host">   
+    
+A dialog box stating "Launching ZCentral Remote Boost" will appear.  Select the blue Weblink that says “HP ZCentral Connect Client”, this will download the HP_ZCentral_Connect_Client installer.   
+   
+Install the software with the default settings   
+   
+<img src="../images/rgs12.jpg" alt="Connect Client">   
+   
+A few seconds later a 2nd pop-up will appear above it with a button to "Open HP ZCentral Connect 2020", click that button (Shown below) if this dialog does not appear press the “connect to host button” again from the previous step.   
+   
+Another pop-up will appear regarding a certificate, select “Yes”   
+    
+<img src="../images/rgs14.jpg" alt="Cirt Confirm">   
+   
+A window will appear presenting a Windows login screen, use your Access Sheridan Credentials again to login to the Animation Workstation.   
+    
+<img src="../images/rgs15.jpg" alt="Desktop">   
+   
+After you have completed your work, remember to logout of your computer.   
+    
+Return to the website https://remotelab.sheridanc.on.ca and select to "Release Host" to release the desktop back into the pool of available machines.   
+   
+<img src="../images/rgs16.jpg" alt="Release Host">   
+   
+Note: Sessions will only be available for 24 hours, after 24 hours the session will be released by the Administrator.   
+   
+After you have released the host, click on the upper right person icon on the website to reveal the logoutbutton (Highlighted in red below) Make sure to log out when you are finished.   
+   
+<img src="../images/rgs10.jpg" alt="Disconnect">   
+   
+Your session is now complete, happy remoting 😊   
+   
+If you have any question or concerns, or just need help connecting to the Remote Lab feel free to contact.   
+Banimationtechs@sheridancollege.ca   
+    
+	
