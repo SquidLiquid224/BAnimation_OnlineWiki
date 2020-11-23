@@ -7,8 +7,8 @@ date: July 01, 2020
 #### **STEP 01 Connecting to the Sheridan VPN.**  
    
 This short walk-through will help you connect to the Sheridan VPN and then the ZCentral Remote boost or RGS system.   
-For a video tutorial for this walk-through check out this link:
-[HP ZCentral Remote Boost tutorial](https://youtu.be/MCjW15srJUU)
+For a video tutorial of this walk-through check out this link:   
+[HP ZCentral Remote Boost tutorial](https://youtu.be/MCjW15srJUU)   
   
     
 First, you will need to gain access to the Sheridan VPN (Virtual Private Network) by connecting to this VPN your home computer will be on the Sheridan Network and allow you to remote control a Sheridan Workstation.  
