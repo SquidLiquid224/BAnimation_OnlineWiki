@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *NEW* Specs for Industry Day App and Film Reels 
+title: NEW Specs for Industry Day App and Film Reels 
 date: March 03, 2021
 ---
 
