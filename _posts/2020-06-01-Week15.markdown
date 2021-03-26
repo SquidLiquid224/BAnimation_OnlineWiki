@@ -1,0 +1,87 @@
+---
+layout: post
+title: *NEW* Specs for Industry Day App and Film Reels 
+date: March 03, 2021
+---
+
+#### **Adobe Premiere Export Settings**  
+   
+This short walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
+   
+When you have everything edited together select File > Export > Media...   
+<img src="../images/ES01.jpg" alt="Export media">     
+    
+	
+In the Export Setting window select:   
+  
+Format: H.264  
+
+Preset: Custom   
+  
+Click the blue type beside "Output Name" to choose the path your export will save to.  
+   
+<img src="../images/ES02.jpg" alt="Export Settings">  
+   
+   
+In the Basic Video Settings select:   
+   
+Width: 1920   
+   
+Height: 1080   
+   
+Frame Rate: 24fps   
+   
+Field Order: Progressive   
+   
+Aspect: Square Pixels (1.0)   
+   
+TV Standard: NTSC   
+   
+And check "Render at Maximum Depth"   
+   
+<img src="../images/ES03.jpg" alt="Video Settings">   
+  
+  
+In Bitrate Settings select:  
+  
+Bitrate Encoding: VBR, 2 pass  
+  
+Target Bitrate [Mbps]: 10  
+  
+Maximum Bitrate [Mbps]: 13  
+  
+<img src="../images/ES04.jpg" alt="Bitrate Settings">   
+  
+  
+Go to the Audio tab:  
+  
+<img src="../images/ES05.jpg" alt="Audio Tab">  
+  
+  
+In the Basic Audio Settings select:  
+  
+Audio Codec: AAC   
+  
+Sample Rate: 48000 Hz  
+  
+Channels: Stereo  
+  
+<img src="../images/ES06.jpg" alt="Audio Settings">  
+  
+  
+Select the Queue button to launch Adobe Media Encoder  
+  
+<img src="../images/ES07.jpg" alt="Queue Button">  
+  
+  
+When your sequence loads, press the Play button at the top left of the window.  
+  
+<img src="../images/ES08.jpg" alt="Play Button">  
+  
+  
+Note: Please include our Name slate at the beginning of your film  
+  
+If you have any question or concerns, or just need help connecting to the Remote Lab feel free to contact.   
+Banimationtechs@sheridancollege.ca   
+    
+	
