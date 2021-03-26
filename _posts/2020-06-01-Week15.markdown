@@ -4,9 +4,15 @@ title: NEW Specs for Industry Day App and Film Reels
 date: March 03, 2021
 ---
 
+#### This walk-through includes the standard specifications for all film exports as well as the poster card image used in the new Industry Day App.  Please refer to communications from your professors for deadline etc. If these deadlines are not met there is no garantee your work will be included. 
+#### If you have any question or concerns, feel free to contact.  Banimationtechs@sheridancollege.ca 
+
+<br>  
+<br>  
+
 ### **Adobe Premiere Export Settings**  
    
-#### This short walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
+#### This section of the walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
    
    
    
@@ -90,8 +96,20 @@ When your sequence loads, press the Play button at the top left of the window.
   
   
 Note: Please include your name slate at the beginning of your film  
-  
-If you have any question or concerns, or just need help connecting to the Remote Lab feel free to contact.   
-Banimationtechs@sheridancollege.ca   
+<br>
+<br>
+   
+### **Specs for the Industry Day Apps Poster Card**  
+<br>
+      
+The Industry Day App Poster Card must meet these specifications:   
     
-	
+Format: .JPEG   
+   
+Width: 300 pixels   
+  
+Height: 450 pixels    
+  
+Here are a couple design examples, try to keep the image simple and easy to ready from a distance.  The Industry Day App will be viewed on many different devises including, mobile.   
+    
+<img src="../images/ES09.jpg" alt="Poster Examples"> 	
