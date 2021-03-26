@@ -112,4 +112,4 @@ The Industry Day App Poster Card must meet these specifications:
   
 Here are a couple design examples, try to keep the image simple and easy to ready from a distance.  The Industry Day App will be viewed on many different devises including, mobile.   
     
-<img src="../images/ES09.jpg" alt="Poster Examples"> 	
+<img src="../images/ES09v2.jpg" alt="Poster Examples"> 	
