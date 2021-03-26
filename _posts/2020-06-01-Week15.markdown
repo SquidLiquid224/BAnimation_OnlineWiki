@@ -4,9 +4,11 @@ title: NEW Specs for Industry Day App and Film Reels
 date: March 03, 2021
 ---
 
-#### **Adobe Premiere Export Settings**  
+### **Adobe Premiere Export Settings**  
    
-This short walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
+#### This short walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
+   
+   
    
 When you have everything edited together select File > Export > Media...   
   
@@ -15,41 +17,41 @@ When you have everything edited together select File > Export > Media...
 	
 In the Export Setting window select:   
   
-Format: H.264  
-
-Preset: Custom   
+* Format: H.264  
   
-Click the blue type beside "Output Name" to choose the path your export will save to.  
+* Preset: Custom   
+  
+* Click the blue type beside "Output Name" to choose the path your export will save to.  
    
 <img src="../images/ES02.jpg" alt="Export Settings">  
    
    
 In the Basic Video Settings select:   
    
-Width: 1920   
+* Width: 1920   
    
-Height: 1080   
+* Height: 1080   
    
-Frame Rate: 24fps   
+* Frame Rate: 24fps   
    
-Field Order: Progressive   
+* Field Order: Progressive   
    
-Aspect: Square Pixels (1.0)   
+* Aspect: Square Pixels (1.0)   
    
-TV Standard: NTSC   
+* TV Standard: NTSC   
    
-And check "Render at Maximum Depth"   
+* And check "Render at Maximum Depth"   
    
 <img src="../images/ES03.jpg" alt="Video Settings">   
   
   
 In Bitrate Settings select:  
   
-Bitrate Encoding: VBR, 2 pass  
+* Bitrate Encoding: VBR, 2 pass  
   
-Target Bitrate [Mbps]: 10  
+* Target Bitrate [Mbps]: 10  
   
-Maximum Bitrate [Mbps]: 13  
+* Maximum Bitrate [Mbps]: 13  
   
 <img src="../images/ES04.jpg" alt="Bitrate Settings">   
   
@@ -61,11 +63,11 @@ Go to the Audio tab:
   
 In the Basic Audio Settings select:  
   
-Audio Codec: AAC   
+* Audio Codec: AAC   
   
-Sample Rate: 48000 Hz  
+* Sample Rate: 48000 Hz  
   
-Channels: Stereo  
+* Channels: Stereo  
   
 <img src="../images/ES06.jpg" alt="Audio Settings">  
   
