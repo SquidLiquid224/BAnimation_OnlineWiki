@@ -12,7 +12,8 @@ date: March 03, 2021
    
 When you have everything edited together select File > Export > Media...   
   
-<img src="../images/ES01.jpg" alt="Export media">     
+<img src="../images/ES01.jpg" alt="Export media">   
+<br>  
     
 	
 In the Export Setting window select:   
@@ -24,6 +25,7 @@ In the Export Setting window select:
 * Click the blue type beside "Output Name" to choose the path your export will save to.  
    
 <img src="../images/ES02.jpg" alt="Export Settings">  
+<br>
    
    
 In the Basic Video Settings select:   
@@ -43,6 +45,7 @@ In the Basic Video Settings select:
 * And check "Render at Maximum Depth"   
    
 <img src="../images/ES03.jpg" alt="Video Settings">   
+<br>
   
   
 In Bitrate Settings select:  
@@ -54,6 +57,7 @@ In Bitrate Settings select:
 * Maximum Bitrate [Mbps]: 13  
   
 <img src="../images/ES04.jpg" alt="Bitrate Settings">   
+<br>
   
   
 Go to the Audio tab:  
@@ -70,16 +74,19 @@ In the Basic Audio Settings select:
 * Channels: Stereo  
   
 <img src="../images/ES06.jpg" alt="Audio Settings">  
+<br>
   
   
 Select the Queue button to launch Adobe Media Encoder  
   
 <img src="../images/ES07.jpg" alt="Queue Button">  
+<br>
   
   
 When your sequence loads, press the Play button at the top left of the window.  
   
 <img src="../images/ES08.jpg" alt="Play Button">  
+<br>
   
   
 Note: Please include your name slate at the beginning of your film  
