@@ -9,6 +9,7 @@ date: March 03, 2021
 This short walk-through will help you export your fourth-year film as a .MP4 video for the Industry Day app and other film reels.     
    
 When you have everything edited together select File > Export > Media...   
+  
 <img src="../images/ES01.jpg" alt="Export media">     
     
 	
