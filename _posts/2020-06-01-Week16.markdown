@@ -52,7 +52,7 @@ Each profile you create enables you to build and save a watchlist for films to b
 
 <img src="../images/.jpg" alt=""> 	
 
-* **How can I see the Film and Film-makers information?**
+* **How can I see the Film and Film-makers information?**  
 To access the Film and Film-makers information select the “i” icon to the bottom right of the film's poster image. 
 
 <img src="../images/.jpg" alt=""> 	
@@ -61,7 +61,9 @@ To access the Film and Film-makers information select the “i” icon to the bo
 Near the bottom of the information card there are selectable social media icons, as well as a portfolio link to direct you to the contact information of the student filmmaker. 
 
 <img src="../images/.jpg" alt=""> 	
-
+  
+<br>  
+  
 #### **Hopin**  
 
 **The three most important guidlines for Hopin are:**
@@ -70,6 +72,7 @@ Near the bottom of the information card there are selectable social media icons,
 2. Ensure that Microsoft Teams, WebEx and any other virtual platforms are closed, you may need to restart your computer once these programs have closed to access Hopin with all it’s features.  
 3. Attendees can access / view the event via the Hopin app, but moderators / presenters need to login via a computer.  
     
+<br>  
    
 #### **hopin navigation guide for industry guests**
 
@@ -82,14 +85,14 @@ Once Sessions are live on the left side panel, attendees can join a specific Ses
 Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
 To participate – They click Share audio and Video or Ask to Share Audio and Video indicating that they would like to participate on screen — people will be able to see and hear them in the session.  
 
+<img src="../images/hopin01.jpg" alt="welcome"> 	
+
 **Expo Booths**  
 If a fallback provider was set in your booth, you can toggle between video and the live session.  
   
-<img src="../images/.jpg" alt=""> 	
-  
 Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event.  
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin02.jpg" alt="expo"> 	
   
 **Presenting in your Session / Expo Booth**  
 For Expo Booths you will have to toggle to LIVE, for Sessions you only have the option to present live.
@@ -98,7 +101,7 @@ Click Share Audio and Video - Make sure you have given permissions for Hopin to 
 
 You will appear directly on screen if you are in your Moderated Session, in all other areas, and for attendees, when they request to share their audio and video in a live Session / Expo Booth, you will see their name pop up in the Moderation panel at the bottom of the screen.
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin03.jpg" alt="session_presenting"> 	
   
 **Presenting in your Session**
 
@@ -123,16 +126,16 @@ During the live expo times, when you enter the booth, you can click the Share Au
 
 Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event. 
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin04.jpg" alt="managing"> 	
   
 **Sessions**  
 The number of people speaking/max number allowed on screen and the number of people watching the Session will be displayed at the top of the screen. 
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin05.jpg" alt=""> 	
   
 Once you are on screen, you will have the following Speaker controls in the bottom centre.
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin06.jpg" alt=""> 	
   
 As a moderator you will allow participants to join on screen or simply view your presentation.
 
@@ -144,7 +147,7 @@ Moderators in Sessions can share a Chrome tab with sound on.  Just make sure the
   
 Sharing a Google Slides presentation or playing a video in a browser tab with sound can be supported on the latest version of Google Chrome browser.  
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin07.jpg" alt=""> 	
   
 
 <br>  
