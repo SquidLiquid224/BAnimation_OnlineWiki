@@ -72,7 +72,7 @@ The three most important guidlines for Hopin are:
 3. Attendees can access / view the event via the Hopin app, but moderators / presenters need to login via a computer.  
     
    
-#### hopin navigation guide for industry guests
+#### **hopin navigation guide for industry guests**
 
 
 **Hopin Speaker Tutorial:**  
@@ -148,7 +148,11 @@ Sharing a Google Slides presentation or playing a video in a browser tab with so
 <img src="../images/.jpg" alt=""> 	
   
 
-#### Hopin navigation guide for attendees
+<br>  
+<br>  
+
+
+#### **Hopin navigation guide for attendees**
 
 
 **How to use Hopin as an attendee tutorial:**  
