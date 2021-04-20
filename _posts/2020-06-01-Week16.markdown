@@ -12,9 +12,9 @@ date: April 20, 2021
 
 #### Table of contense 
 
-Industry Day App FAQ
-hopin navigation for industry guest
-hopin navigation for attendees
+* Industry Day App FAQ  
+* Hopin navigation for industry guest  
+* Hopin navigation for attendees  
 
 
 
