@@ -187,8 +187,9 @@ The Expo area is the virtual exhibitor hall in your event.  You can visit this a
 Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
   
 There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose.  
-Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here.  
-Stage chat — chat with a Stage-related discussion all attendees have access to.  
-Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
-Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them.  
+  
+* Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here.  
+* Stage chat — chat with a Stage-related discussion all attendees have access to.  
+* Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
+* Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them.  
    
