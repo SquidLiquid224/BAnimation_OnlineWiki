@@ -12,7 +12,9 @@ date: April 20, 2021
 
 #### Table of contense 
 
+
 * Industry Day App FAQ  
+
 * Hopin navigation for industry guest  
 * Hopin navigation for attendees  
 
@@ -21,29 +23,50 @@ date: April 20, 2021
 #### Industry Day App FAQ for industry guest
 #### How to use the Industry Day App
 
+Industry Day App Video Tutorial:  
+[Industry Day App Video Tutorial](https://www.youtube.com/watch?v=hXRs6IWfMmc) 
+  
 1. How can I create a new Position-profile?  
 When you log into the Sheridan Industry Day app for the first time you will be brought to a position profile page. On this page you can create profiles for different positions that you wish to find candidates for. You can also return to the Position profiles page by selecting the Profile Drop-down menu and selecting the “Manage profiles” option. 
+
+<img src="../images/.jpg" alt=""> 	
 
 2. How can I filter and search the films?  
 To find the right candidates for the positions you are hiring for you can filter the student films by Pipeline, Specialties and search by the Student-name or Film-name. The search bars are found at the top of the Student Films area of the sites home page. 
 
+<img src="../images/.jpg" alt=""> 	
+
 3. How can I create a Watchlist?  
 Each profile you create enables you to build and save a watchlist for films to be reviewed. You can add and subtract from the watchlist but suing the “+” and “–“ icons located at the bottom left corner of the film's poster Image. 
+
+<img src="../images/.jpg" alt=""> 	
 
 4. How can I see the Film and Film-makers information?
 To access the Film and Film-makers information select the “i” icon to the bottom right of the film's poster image. 
 
+<img src="../images/.jpg" alt=""> 	
+
 5. How can I contact a student filmmaker?  
 Near the bottom of the information card there are selectable social media icons, as well as a portfolio link to direct you to the contact information of the student filmmaker. 
 
+<img src="../images/.jpg" alt=""> 	
 
+
+
+The three most important guidlines for Hopin are:
+
+1. Sign in with a Computer using the latest version of Google Chrome as your browser (for moderators, Hopin is best accessed / viewed from a computer.)  
+2. Ensure that Microsoft Teams, WebEx and any other virtual platforms are closed, you may need to restart your computer once these programs have closed to access Hopin with all it’s features.  
+3. Attendees can access / view the event via the Hopin app, but moderators / presenters need to login via a computer.  
+    
+   
 #### hopin navigation for industry guest
 #### How to use Hopin Sessions & Expo Booths
 
 
-Hopin Speaker Tutorial  
-https://www.youtube.com/watch?v=n-5oLcUaFZM  
-
+Hopin Speaker Tutorial:  
+[Hopin Speaker Tutorial](https://www.youtube.com/watch?v=n-5oLcUaFZM)  
+  
 Sessions  
 Once Sessions are live on the left side panel, attendees can join a specific Session in one of two modes: watching or participating.  
 Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
@@ -51,11 +74,13 @@ To participate – They click Share audio and Video or Ask to Share Audio and Vi
 
 Expo Booths  
 If a fallback provider was set in your booth, you can toggle between video and the live session.  
-IMG
-
-Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event. 
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
+Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event.  
+  
+<img src="../images/.jpg" alt=""> 	
+  
 Presenting in your Session / Expo Booth  
 For Expo Booths you will have to toggle to LIVE, for Sessions you only have the option to present live.
 
@@ -63,8 +88,8 @@ Click Share Audio and Video - Make sure you have given permissions for Hopin to 
 
 You will appear directly on screen if you are in your Moderated Session, in all other areas, and for attendees, when they request to share their audio and video in a live Session / Expo Booth, you will see their name pop up in the Moderation panel at the bottom of the screen.
   
-IMG
-
+<img src="../images/.jpg" alt=""> 	
+  
 Presenting in your Session / Expo Booth continued
 
 Chat  
@@ -87,38 +112,38 @@ Throughout the day you can say hello to your booth visitors and answer any quest
 During the live expo times, when you enter the booth, you can click the Share Audio and Video button to go on live camera.  
 
 Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event. 
-
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
 Sessions  
 The number of people speaking/max number allowed on screen and the number of people watching the Session will be displayed at the top of the screen. 
-
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
 Once you are on screen, you will have the following Speaker controls in the bottom centre.
-
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
 As a moderator you will allow participants to join on screen or simply view your presentation.
 
 You can also click Leave at the top right corner to leave the Session at any time. (This will just stop your sharing of Audio and Video but you will still hear and see the rest of the presentation.)
 
 Moderators in Sessions can share a Chrome tab with sound on.  Just make sure the sound starts playing before you share the screen.
-
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
 Sharing a Google Slides presentation or playing a video in a browser tab with sound can be supported on the latest version of Google Chrome browser.  
-
-IMG
-
+  
+<img src="../images/.jpg" alt=""> 	
+  
 
 #### Hopin navigation for attendees
 #### How to use Hopin as an attendee
 
 
-How to use Hopin as an attendee tutorial  
-https://www.youtube.com/watch?v=QRBVbUCNTTg  
-
+How to use Hopin as an attendee tutorial:  
+[How to use Hopin as an attendee tutorial](https://www.youtube.com/watch?v=QRBVbUCNTTg)  
+  
 The five areas of Hopin  
 There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
   
