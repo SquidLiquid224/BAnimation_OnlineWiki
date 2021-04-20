@@ -38,27 +38,27 @@ date: April 20, 2021
 **Industry Day App Video Tutorial:**  
 [https://www.youtube.com/watch?v=hXRs6IWfMmc](https://www.youtube.com/watch?v=hXRs6IWfMmc) 
   
-* How can I create a new Position-profile?  
+* **How can I create a new Position-profile?**  
 When you log into the Sheridan Industry Day app for the first time you will be brought to a position profile page. On this page you can create profiles for different positions that you wish to find candidates for. You can also return to the Position profiles page by selecting the Profile Drop-down menu and selecting the “Manage profiles” option. 
 
 <img src="../images/.jpg" alt=""> 	
 
-* How can I filter and search the films?  
+* **How can I filter and search the films?**  
 To find the right candidates for the positions you are hiring for you can filter the student films by Pipeline, Specialties and search by the Student-name or Film-name. The search bars are found at the top of the Student Films area of the sites home page. 
 
 <img src="../images/.jpg" alt=""> 	
 
-* How can I create a Watchlist?  
+* **How can I create a Watchlist?**  
 Each profile you create enables you to build and save a watchlist for films to be reviewed. You can add and subtract from the watchlist but suing the “+” and “–“ icons located at the bottom left corner of the film's poster Image. 
 
 <img src="../images/.jpg" alt=""> 	
 
-* How can I see the Film and Film-makers information?
+* **How can I see the Film and Film-makers information?**
 To access the Film and Film-makers information select the “i” icon to the bottom right of the film's poster image. 
 
 <img src="../images/.jpg" alt=""> 	
 
-* How can I contact a student filmmaker?  
+* **How can I contact a student filmmaker?**  
 Near the bottom of the information card there are selectable social media icons, as well as a portfolio link to direct you to the contact information of the student filmmaker. 
 
 <img src="../images/.jpg" alt=""> 	
