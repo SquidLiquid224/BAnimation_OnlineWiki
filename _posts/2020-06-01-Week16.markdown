@@ -8,7 +8,6 @@ date: April 20, 2021
 #### If you have any question or concerns, feel free to contact.  Banimationtechs@sheridancollege.ca 
 
 <br>  
-<br>  
 
 #### Table of contense 
 
@@ -65,7 +64,7 @@ Near the bottom of the information card there are selectable social media icons,
 
 #### **Hopin**  
 
-The three most important guidlines for Hopin are:
+**The three most important guidlines for Hopin are:**
 
 1. Sign in with a Computer using the latest version of Google Chrome as your browser (for moderators, Hopin is best accessed / viewed from a computer.)  
 2. Ensure that Microsoft Teams, WebEx and any other virtual platforms are closed, you may need to restart your computer once these programs have closed to access Hopin with all it’s features.  
@@ -78,12 +77,12 @@ The three most important guidlines for Hopin are:
 **Hopin Speaker Tutorial:**  
 [https://www.youtube.com/watch?v=n-5oLcUaFZM](https://www.youtube.com/watch?v=n-5oLcUaFZM)  
   
-Sessions  
+**Sessions**  
 Once Sessions are live on the left side panel, attendees can join a specific Session in one of two modes: watching or participating.  
 Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
 To participate – They click Share audio and Video or Ask to Share Audio and Video indicating that they would like to participate on screen — people will be able to see and hear them in the session.  
 
-Expo Booths  
+**Expo Booths**  
 If a fallback provider was set in your booth, you can toggle between video and the live session.  
   
 <img src="../images/.jpg" alt=""> 	
@@ -92,7 +91,7 @@ Be sure to toggle OFF the live session before you leave your booth so the static
   
 <img src="../images/.jpg" alt=""> 	
   
-Presenting in your Session / Expo Booth  
+**Presenting in your Session / Expo Booth**  
 For Expo Booths you will have to toggle to LIVE, for Sessions you only have the option to present live.
 
 Click Share Audio and Video - Make sure you have given permissions for Hopin to use your camera and microphone.  And that all other programs that use these are off (ex. Microsoft Teams / WebEx)
@@ -101,20 +100,20 @@ You will appear directly on screen if you are in your Moderated Session, in all 
   
 <img src="../images/.jpg" alt=""> 	
   
-Presenting in your Session / Expo Booth continued
+**Presenting in your Session**
 
-Chat  
+**Chat**  
 Each session / expo booth has its own group chat, separate from the event-wide chat. As a viewer, you can interact with the people who are in the session / expo booth via chat using the Session chat or Expo Booth chat. This is a great place to ask questions and engage with people on-camera when you do not want to be on-camera yourself. 
 
-Number of Participants  
-Session:  
+**Number of Participants**  
+**Session:**  
 Up to 20 on screen (including a screen share), up to 500 watching  
   
-Expo Booth:  
+**Expo Booth:**  
 Up to 10 on screen (including a screen share), up to 500 watching  
   
 
-Managing the Expo Booth  
+**Managing the Expo Booth**  
 Since a fallback provider was set in your booth, you can toggle between video and the live session.  
 
 When the pre-recorded content (Google Slides / YouTube / Vimeo is on), simply monitor the Booth chat. 
@@ -126,7 +125,7 @@ Be sure to toggle OFF the live session before you leave your booth so the static
   
 <img src="../images/.jpg" alt=""> 	
   
-Sessions  
+**Sessions**  
 The number of people speaking/max number allowed on screen and the number of people watching the Session will be displayed at the top of the screen. 
   
 <img src="../images/.jpg" alt=""> 	
