@@ -27,7 +27,7 @@ date: April 20, 2021
 <br>  
 
 
-#### **The Industry Day App**  
+## **The Industry Day App**  
 
 #### How to Create a Password and log into the Industry Day App
 
@@ -64,7 +64,7 @@ Near the bottom of the information card there are selectable social media icons,
   
 <br>  
   
-#### **Hopin**  
+## **Hopin**  
 
 **The three most important guidlines for Hopin are:**
 
