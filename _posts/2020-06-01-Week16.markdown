@@ -103,8 +103,6 @@ You will appear directly on screen if you are in your Moderated Session, in all 
   
 <img src="../images/hopin03.jpg" alt="session_presenting"> 	
   
-**Presenting in your Session**
-
 **Chat**  
 Each session / expo booth has its own group chat, separate from the event-wide chat. As a viewer, you can interact with the people who are in the session / expo booth via chat using the Session chat or Expo Booth chat. This is a great place to ask questions and engage with people on-camera when you do not want to be on-camera yourself. 
 
@@ -143,11 +141,10 @@ You can also click Leave at the top right corner to leave the Session at any tim
 
 Moderators in Sessions can share a Chrome tab with sound on.  Just make sure the sound starts playing before you share the screen.
   
-<img src="../images/.jpg" alt=""> 	
+<img src="../images/hopin07.jpg" alt="">  
   
 Sharing a Google Slides presentation or playing a video in a browser tab with sound can be supported on the latest version of Google Chrome browser.  
   
-<img src="../images/hopin07.jpg" alt=""> 	
   
 
 <br>  
