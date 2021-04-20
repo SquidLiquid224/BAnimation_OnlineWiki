@@ -157,25 +157,25 @@ Sharing a Google Slides presentation or playing a video in a browser tab with so
 **How to use Hopin as an attendee tutorial:**  
 [https://www.youtube.com/watch?v=QRBVbUCNTTg](https://www.youtube.com/watch?v=QRBVbUCNTTg)  
   
-The five areas of Hopin  
+**The five areas of Hopin**  
 There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
   
-Reception  
+**Reception**  
 The Reception area is the information hub and a venue’s lobby. The other areas (segments) in the venue are on the left sidebar including Stage, Sessions, Networking and Expo. 
   
-Stage  
+**Stage**  
 This is the main presentation screen area used for panels, presentations and keynote address’. Communication in this area is limited to the stage chat. 
   
-Sessions  
+**Sessions**  
 Sessions will appear in the event schedule. You can request to join the conversation with audio/video however please note that it will be up to the Session leader/moderator to decide if and when that interaction is possible.  Due to the number of presentations and limited time there may not be time within all of the sessions for a live Q&A. With that being a definitely possibility, please be sure to post your questions in the session chat for follow up after the close of the event.  
   
-Networking  
+**Networking**  
 Networking on Hopin is like a one-on-one FaceTime call. When an attendee participates in Networking,  they are matched with a random attendee and will meet for a pre-set time. There is a countdown clock indicating how much time is left.  When you come close to the end of the pre-set time, you will have the option to extend the session and the person you are chatting with can choose to accept or decline. Please note that attendees can click the Connect button any time during a call to exchange contact information. 
   
-Expo  
+**Expo**  
 The Expo area is the virtual exhibitor hall in your event.  You can visit this area at any time through the event.  When the Expo’s are live they function as a Session.  You can request to join the conversation with audio/video however please note that it will be up to the Expo leader/moderator to decide if and when that interaction is possible.  
   
-Chats  
+**Chats**  
 Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
   
 There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose.  
