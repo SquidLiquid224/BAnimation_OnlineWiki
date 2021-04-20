@@ -24,7 +24,7 @@ date: April 20, 2021
 #### How to use the Industry Day App
 
 Industry Day App Video Tutorial:  
-[Industry Day App Video Tutorial](https://www.youtube.com/watch?v=hXRs6IWfMmc) 
+[https://www.youtube.com/watch?v=hXRs6IWfMmc](https://www.youtube.com/watch?v=hXRs6IWfMmc) 
   
 1. How can I create a new Position-profile?  
 When you log into the Sheridan Industry Day app for the first time you will be brought to a position profile page. On this page you can create profiles for different positions that you wish to find candidates for. You can also return to the Position profiles page by selecting the Profile Drop-down menu and selecting the “Manage profiles” option. 
@@ -65,7 +65,7 @@ The three most important guidlines for Hopin are:
 
 
 Hopin Speaker Tutorial:  
-[](https://www.youtube.com/watch?v=n-5oLcUaFZM)  
+[https://www.youtube.com/watch?v=n-5oLcUaFZM](https://www.youtube.com/watch?v=n-5oLcUaFZM)  
   
 Sessions  
 Once Sessions are live on the left side panel, attendees can join a specific Session in one of two modes: watching or participating.  
@@ -142,7 +142,7 @@ Sharing a Google Slides presentation or playing a video in a browser tab with so
 
 
 How to use Hopin as an attendee tutorial:  
-[How to use Hopin as an attendee tutorial](https://www.youtube.com/watch?v=QRBVbUCNTTg)  
+[https://www.youtube.com/watch?v=QRBVbUCNTTg](https://www.youtube.com/watch?v=QRBVbUCNTTg)  
   
 The five areas of Hopin  
 There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
