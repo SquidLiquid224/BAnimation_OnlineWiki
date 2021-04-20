@@ -40,6 +40,10 @@ Near the bottom of the information card there are selectable social media icons,
 #### hopin navigation for industry guest
 #### How to use Hopin Sessions & Expo Booths
 
+
+Hopin Speaker Tutorial  
+https://www.youtube.com/watch?v=n-5oLcUaFZM  
+
 Sessions  
 Once Sessions are live on the left side panel, attendees can join a specific Session in one of two modes: watching or participating.  
 Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
@@ -111,6 +115,10 @@ IMG
 #### Hopin navigation for attendees
 #### How to use Hopin as an attendee
 
+
+How to use Hopin as an attendee tutorial  
+https://www.youtube.com/watch?v=QRBVbUCNTTg  
+
 The five areas of Hopin  
 There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
   
@@ -138,4 +146,3 @@ Stage chat — chat with a Stage-related discussion all attendees have access to
 Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
 Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them.  
    
-https://www.youtube.com/watch?v=QRBVbUCNTTg
