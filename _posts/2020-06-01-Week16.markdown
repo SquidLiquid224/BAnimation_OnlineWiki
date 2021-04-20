@@ -31,7 +31,17 @@ date: April 20, 2021
 
 #### How to Create a Password and log into the Industry Day App
 
+You will have received an E-mail with a weblink much like this one:  
 
+http://animation.sheridanc.on.ca:8080/invite?uuid=27b82f2e-961d-49dd-829  
+
+Follow the link and create a password you can share with your team.  
+
+Once created, go to [http://animation.sheridanc.on.ca:8080](http://animation.sheridanc.on.ca:8080)  
+
+Log in with your E-mail address and password.    
+  
+  
 #### Industry Day App FAQ for industry guest
 
 **Industry Day App Video Tutorial:**  
