@@ -13,11 +13,21 @@ date: April 20, 2021
 #### Table of contense 
 
 
-* Industry Day App FAQ  
+**Industry Day App**
+* How to Create a Password and log into the Industry Day App
+* How to use the Industry Day app Video tutorial
+* The Industry Day App FAQ
 
-* Hopin navigation for industry guest  
-* Hopin navigation for attendees  
+**Hopin**
+* The three most important guidlines 
+* Hopin navigation for industry guest Video Tutorial and walk-through
+* Hopin navigation for attendees Video Tutorial and walk-through
 
+
+
+#### **The Industry Day App**  
+
+#### How to Create a Password and log into the Industry Day App
 
 
 #### Industry Day App FAQ for industry guest
@@ -51,7 +61,7 @@ Near the bottom of the information card there are selectable social media icons,
 
 <img src="../images/.jpg" alt=""> 	
 
-
+#### **Hopin**  
 
 The three most important guidlines for Hopin are:
 
