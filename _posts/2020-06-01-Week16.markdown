@@ -66,7 +66,7 @@ Near the bottom of the information card there are selectable social media icons,
   
 ## **Hopin**  
 
-**The three most important guidlines for Hopin are:**
+#### **The three most important guidlines for Hopin are:**
 
 1. Sign in with a Computer using the latest version of Google Chrome as your browser (for moderators, Hopin is best accessed / viewed from a computer.)  
 2. Ensure that Microsoft Teams, WebEx and any other virtual platforms are closed, you may need to restart your computer once these programs have closed to access Hopin with all it’s features.  
