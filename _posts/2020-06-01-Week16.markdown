@@ -45,14 +45,14 @@ Once Sessions are live on the left side panel, attendees can join a specific Ses
 Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
 To participate – They click Share audio and Video or Ask to Share Audio and Video indicating that they would like to participate on screen — people will be able to see and hear them in the session.  
 
-Expo Booths
+Expo Booths  
 If a fallback provider was set in your booth, you can toggle between video and the live session.  
 IMG
 
 Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event. 
 IMG
 
-Presenting in your Session / Expo Booth
+Presenting in your Session / Expo Booth  
 For Expo Booths you will have to toggle to LIVE, for Sessions you only have the option to present live.
 
 Click Share Audio and Video - Make sure you have given permissions for Hopin to use your camera and microphone.  And that all other programs that use these are off (ex. Microsoft Teams / WebEx)
@@ -63,18 +63,18 @@ IMG
 
 Presenting in your Session / Expo Booth continued
 
-Chat 
+Chat  
 Each session / expo booth has its own group chat, separate from the event-wide chat. As a viewer, you can interact with the people who are in the session / expo booth via chat using the Session chat or Expo Booth chat. This is a great place to ask questions and engage with people on-camera when you do not want to be on-camera yourself. 
 
-Number of Participants
-Session:
-Up to 20 on screen (including a screen share), up to 500 watching
- 
-Expo Booth:
-Up to 10 on screen (including a screen share), up to 500 watching
+Number of Participants  
+Session:  
+Up to 20 on screen (including a screen share), up to 500 watching  
+  
+Expo Booth:  
+Up to 10 on screen (including a screen share), up to 500 watching  
+  
 
-
-Managing the Expo Booth
+Managing the Expo Booth  
 Since a fallback provider was set in your booth, you can toggle between video and the live session.  
 
 When the pre-recorded content (Google Slides / YouTube / Vimeo is on), simply monitor the Booth chat. 
@@ -86,7 +86,7 @@ Be sure to toggle OFF the live session before you leave your booth so the static
 
 IMG
 
-Sessions
+Sessions  
 The number of people speaking/max number allowed on screen and the number of people watching the Session will be displayed at the top of the screen. 
 
 IMG
@@ -111,49 +111,31 @@ IMG
 #### hopin navigation for attendees
 #### How to use Hopin as an attendee
 
-The five areas of Hopin 
+The five areas of Hopin  
 There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
- 
-Reception 
+  
+Reception  
 The Reception area is the information hub and a venue’s lobby. The other areas (segments) in the venue are on the left sidebar including Stage, Sessions, Networking and Expo. 
- 
-Stage 
+  
+Stage  
 This is the main presentation screen area used for panels, presentations and keynote address’. Communication in this area is limited to the stage chat. 
- 
-Sessions 
+  
+Sessions  
 Sessions will appear in the event schedule. You can request to join the conversation with audio/video however please note that it will be up to the Session leader/moderator to decide if and when that interaction is possible.  Due to the number of presentations and limited time there may not be time within all of the sessions for a live Q&A. With that being a definitely possibility, please be sure to post your questions in the session chat for follow up after the close of the event.  
-
-Networking 
+  
+Networking  
 Networking on Hopin is like a one-on-one FaceTime call. When an attendee participates in Networking,  they are matched with a random attendee and will meet for a pre-set time. There is a countdown clock indicating how much time is left.  When you come close to the end of the pre-set time, you will have the option to extend the session and the person you are chatting with can choose to accept or decline. Please note that attendees can click the Connect button any time during a call to exchange contact information. 
- 
-Expo 
+  
+Expo  
 The Expo area is the virtual exhibitor hall in your event.  You can visit this area at any time through the event.  When the Expo’s are live they function as a Session.  You can request to join the conversation with audio/video however please note that it will be up to the Expo leader/moderator to decide if and when that interaction is possible.  
-
-Chats 
+  
+Chats  
 Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
- 
-There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose. 
-Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here. 
-Stage chat — chat with a Stage-related discussion all attendees have access to. 
+  
+There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose.  
+Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here.  
+Stage chat — chat with a Stage-related discussion all attendees have access to.  
 Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
-Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them. 
- 
-Chats 
-Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
- 
-There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose. 
-Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here. 
-Stage chat — chat with a Stage-related discussion all attendees have access to. 
-Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
-Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them. 
- 
-Chats 
-Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
- 
-There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose. 
-Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here. 
-Stage chat — chat with a Stage-related discussion all attendees have access to. 
-Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
-Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them. 
- 
+Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them.  
+   
 https://www.youtube.com/watch?v=QRBVbUCNTTg
