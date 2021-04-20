@@ -38,6 +38,7 @@ Follow the link and create a password you can share with your team.
 * Once created, go to [http://animation.sheridanc.on.ca:8080](http://animation.sheridanc.on.ca:8080)  
 Log in with your E-mail address and password.    
   
+<br>  
   
 #### Industry Day App FAQ for industry guest
 
