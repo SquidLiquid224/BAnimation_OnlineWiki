@@ -44,6 +44,11 @@ Log in with your E-mail address and password.
 
 **Industry Day App Video Tutorial:**  
 [https://www.youtube.com/watch?v=hXRs6IWfMmc](https://www.youtube.com/watch?v=hXRs6IWfMmc) 
+
+**Industry Day App link**  
+[http://animation.sheridanc.on.ca:8080](http://animation.sheridanc.on.ca:8080)  
+  
+<br>  
   
 * **How can I create a new Position-profile?**  
 When you log into the Sheridan Industry Day app for the first time you will be brought to a position profile page. On this page you can create profiles for different positions that you wish to find candidates for. You can also return to the Position profiles page by selecting the Profile Drop-down menu and selecting the “Manage profiles” option. 
