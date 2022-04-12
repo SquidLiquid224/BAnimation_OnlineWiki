@@ -104,7 +104,7 @@ Note: Please include your name slate at the beginning of your film
       
 The Industry Day App Poster Card must meet these specifications:   
     
-* Format: .JPEG   
+* Format: .png  
    
 * Width: 300 pixels   
   
