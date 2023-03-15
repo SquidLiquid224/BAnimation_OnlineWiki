@@ -23,12 +23,12 @@ When you have everything edited together select File > Export > Media...
     
 It is more reliable to use Adobe Media Encoder, press the “Send To Media Encoder” button to send the export.   
 
-<img src="../images/ES10.jpg" alt="Export media">   
+<img src="../images/ES10.png" alt="Export media">   
 <br>  
 
 Once Adobe Media Encoder opens, select the blue writing underneath your sequence title to open the export settings.   
 
-<img src="../images/ES13.jpg" alt="Export media">   
+<img src="../images/ES13.png" alt="Export media">   
 <br>  
 
 
@@ -72,7 +72,7 @@ In Bitrate Settings select:
   
 * Maximum Bitrate [Mbps]: 19  
   
-<img src="../images/ES11.jpg" alt="Bitrate Settings">   
+<img src="../images/ES11.png" alt="Bitrate Settings">   
 <br>
   
   
@@ -95,13 +95,13 @@ In the Basic Audio Settings select:
   
 Select the "Use Maximum Render Quality" option and press OK.  
   
-<img src="../images/ES09.jpg" alt="Queue Button">  
+<img src="../images/ES09.png" alt="Queue Button">  
 <br>
   
   
 Finally, press the Play button at the top left of the window.  
   
-<img src="../images/ES12.jpg" alt="Play Button">  
+<img src="../images/ES12.png" alt="Play Button">  
 <br>
   
   
