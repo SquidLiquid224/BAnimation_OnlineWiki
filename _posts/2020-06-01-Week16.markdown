@@ -1,10 +1,10 @@
 ---
 layout: post
-title: NEW Industry Day 2022 Help Resources  
+title: NEW Industry Day 2024 Help Resources  
 date: April 20, 2021
 ---
 
-#### This is a technical help resource for Industry Day 2022  
+#### This is a technical help resource for Industry Day 2024  
 #### If you have any question or concerns, feel free to contact.  Banimationtechs@sheridancollege.ca 
 
 <br>  
@@ -17,13 +17,6 @@ date: April 20, 2021
 * How to Create a Password and log into the Industry Day App
 * How to use the Industry Day app Video tutorial
 * The Industry Day App FAQ
-
-**Hopin:** 
-***The Hopin platform will be used for the virtual Company Spotlight Event, please see details below***
-* The three most important guidlines 
-* Hopin navigation for industry guest Video Tutorial and walk-through
-* Hopin navigation for attendees Video Tutorial and walk-through
-
 
 <br>  
 <br>  
@@ -79,124 +72,3 @@ Near the bottom of the information card there are selectable social media icons,
   
 <br>  
   
-## **Hopin**  
-
-#### **The three most important guidlines for Hopin are:**
-
-1. Sign in with a Computer using the latest version of Google Chrome as your browser (for moderators, Hopin is best accessed / viewed from a computer.)  
-2. Ensure that Microsoft Teams, WebEx and any other virtual platforms are closed, you may need to restart your computer once these programs have closed to access Hopin with all it’s features.  
-3. Attendees can access / view the event via the Hopin app, but moderators / presenters need to login via a computer.  
-    
-<br>  
-   
-#### **Hopin navigation guide for industry guests**
-
-
-**Hopin Speaker Tutorial:**  
-[https://www.youtube.com/watch?v=n-5oLcUaFZM](https://www.youtube.com/watch?v=n-5oLcUaFZM)  
-  
-**Sessions**  
-Once Sessions are live on the left side panel, attendees can join a specific Session in one of two modes: watching or participating.  
-Watching is simple – just join any Session and watch the Speakers talk or engage in a dedicated Session chat on the right-side panel.  
-To participate – They click Share audio and Video or Ask to Share Audio and Video indicating that they would like to participate on screen — people will be able to see and hear them in the session.  
-
-<img src="../images/hopin01.jpg" alt="welcome"> 	
-
-**Expo Booths**  
-If a fallback provider was set in your booth, you can toggle between video and the live session.  
-  
-Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event.  
-  
-<img src="../images/hopin02.jpg" alt="expo"> 	
-  
-**Presenting in your Session / Expo Booth**  
-For Expo Booths you will have to toggle to LIVE, for Sessions you only have the option to present live.
-
-Click Share Audio and Video - Make sure you have given permissions for Hopin to use your camera and microphone.  And that all other programs that use these are off (ex. Microsoft Teams / WebEx)
-
-You will appear directly on screen if you are in your Moderated Session, in all other areas, and for attendees, when they request to share their audio and video in a live Session / Expo Booth, you will see their name pop up in the Moderation panel at the bottom of the screen.
-  
-<img src="../images/hopin03.jpg" alt="session_presenting"> 	
-  
-**Chat**  
-Each session / expo booth has its own group chat, separate from the event-wide chat. As a viewer, you can interact with the people who are in the session / expo booth via chat using the Session chat or Expo Booth chat. This is a great place to ask questions and engage with people on-camera when you do not want to be on-camera yourself. 
-
-**Number of Participants**  
-**Session:**  
-Up to 20 on screen (including a screen share), up to 500 watching  
-  
-**Expo Booth:**  
-Up to 10 on screen (including a screen share), up to 500 watching  
-  
-
-**Managing the Expo Booth**  
-Since a fallback provider was set in your booth, you can toggle between video and the live session.  
-
-When the pre-recorded content (Google Slides / YouTube / Vimeo is on), simply monitor the Booth chat. 
-Throughout the day you can say hello to your booth visitors and answer any questions they may have, by using the chat section.  
-
-During the live expo times, when you enter the booth, you can click the Share Audio and Video button to go on live camera.  
-
-Be sure to toggle OFF the live session before you leave your booth so the static content remains for the duration of the event. 
-  
-<img src="../images/hopin04.jpg" alt="managing"> 	
-  
-**Sessions**  
-The number of people speaking/max number allowed on screen and the number of people watching the Session will be displayed at the top of the screen. 
-  
-<img src="../images/hopin05.jpg" alt=""> 	
-  
-Once you are on screen, you will have the following Speaker controls in the bottom centre.
-  
-<img src="../images/hopin06.jpg" alt=""> 	
-  
-As a moderator you will allow participants to join on screen or simply view your presentation.
-
-You can also click Leave at the top right corner to leave the Session at any time. (This will just stop your sharing of Audio and Video but you will still hear and see the rest of the presentation.)
-
-Moderators in Sessions can share a Chrome tab with sound on.  Just make sure the sound starts playing before you share the screen.
-  
-<img src="../images/hopin07.jpg" alt="">  
-  
-Sharing a Google Slides presentation or playing a video in a browser tab with sound can be supported on the latest version of Google Chrome browser.  
-  
-  
-
-<br>  
-<br>  
-
-
-#### **Hopin navigation guide for attendees**
-
-
-**How to use Hopin as an attendee tutorial:**  
-[https://www.youtube.com/watch?v=QRBVbUCNTTg](https://www.youtube.com/watch?v=QRBVbUCNTTg)  
-  
-**The five areas of Hopin**  
-There are five areas of Hopin – Reception, Stage, Sessions, Networking and Expo. Each area is flexible and provides live interaction in different ways.  
-  
-**Reception**  
-The Reception area is the information hub and a venue’s lobby. The other areas (segments) in the venue are on the left sidebar including Stage, Sessions, Networking and Expo. 
-  
-**Stage**  
-This is the main presentation screen area used for panels, presentations and keynote address’. Communication in this area is limited to the stage chat. 
-  
-**Sessions**  
-Sessions will appear in the event schedule. You can request to join the conversation with audio/video however please note that it will be up to the Session leader/moderator to decide if and when that interaction is possible.  Due to the number of presentations and limited time there may not be time within all of the sessions for a live Q&A. With that being a definitely possibility, please be sure to post your questions in the session chat for follow up after the close of the event.  
-  
-**Networking**  
-Networking on Hopin is like a one-on-one FaceTime call. When an attendee participates in Networking,  they are matched with a random attendee and will meet for a pre-set time. There is a countdown clock indicating how much time is left.  When you come close to the end of the pre-set time, you will have the option to extend the session and the person you are chatting with can choose to accept or decline. Please note that attendees can click the Connect button any time during a call to exchange contact information. 
-  
-**Expo**  
-The Expo area is the virtual exhibitor hall in your event.  You can visit this area at any time through the event.  When the Expo’s are live they function as a Session.  You can request to join the conversation with audio/video however please note that it will be up to the Expo leader/moderator to decide if and when that interaction is possible.  
-  
-**Chats**  
-Be mindful of which chat you are in and that chats are visible to anyone within that session at that time. Event chats are visible from any area of the event. 
-  
-There are multiple chat channels in online event on Hopin platform. Each one serves a different purpose.  
-  
-* Event chat — global event chat where all participants can post messages. All event updates for the day will be posted and available here.  
-* Stage chat — chat with a Stage-related discussion all attendees have access to.  
-* Session and Expo chats — each session in “Sessions” and “Expo” has a dedicated chat room.  Attendees who are in this space can chat with anyone else in that same space.   
-* Direct messages — anyone can send messages to an individual at an event on Hopin via DMs in the People tab. To send a DM, find the person you wish to chat with in the People tab, click their profile photo, and send a direct message to them.  
-   
